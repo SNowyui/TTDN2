@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hỏi đáp quy định nghĩa vụ quân sự</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --ink:#1b2430; --mute:#5d6b7c; --line:#dde2e8;
+          --accent:#1f5eff; --ok:#17794a; --okbg:#e6f4ec; --bad:#b42318; --badbg:#fdeceb; --warn:#8a5a00; --warnbg:#fff4de; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#12161c; --card:#1b212a; --ink:#e8edf3; --mute:#9aa7b6; --line:#2e3744;
+            --accent:#6b9bff; --ok:#5fd39a; --okbg:#143324; --bad:#ff8a80; --badbg:#3b1b19; --warn:#f0c36a; --warnbg:#3a2d10; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  main { max-width:880px; margin:0 auto; padding:24px 16px 64px; }
+  h1 { font-size:1.4rem; margin:0 0 4px; }
+  .sub { color:var(--mute); margin:0 0 16px; font-size:.92rem; }
+  .notice { background:var(--warnbg); color:var(--warn); border-radius:8px; padding:10px 14px; font-size:.92rem; margin-bottom:16px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; margin-bottom:16px; }
+  textarea { width:100%; min-height:84px; resize:vertical; padding:10px 12px; font:inherit; color:inherit; background:var(--bg);
+             border:1px solid var(--line); border-radius:8px; }
+  textarea:focus-visible, button:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+  .row { display:flex; flex-wrap:wrap; gap:12px 20px; align-items:center; margin-top:12px; }
+  .modes label { display:flex; gap:6px; align-items:center; cursor:pointer; }
+  .modes { display:flex; flex-wrap:wrap; gap:6px 18px; }
+  button.primary { margin-left:auto; background:var(--accent); color:#fff; border:0; border-radius:8px; padding:10px 22px; font:inherit; font-weight:600; cursor:pointer; }
+  button.primary:disabled { opacity:.55; cursor:progress; }
+  .hint { color:var(--mute); font-size:.85rem; margin-top:6px; }
+  h2 { font-size:1rem; margin:0 0 8px; }
+  #answer { white-space:pre-wrap; }
+  .chip { display:inline-block; font:inherit; font-size:.82rem; padding:0 8px; margin:0 1px; border-radius:999px; border:1px solid var(--ok);
+          background:var(--okbg); color:var(--ok); cursor:pointer; vertical-align:baseline; line-height:1.6; }
+  .chip.missing { border-color:var(--bad); background:var(--badbg); color:var(--bad); text-decoration:line-through; cursor:help; }
+  .chip.active { outline:2px solid var(--accent); }
+  .legend { color:var(--mute); font-size:.82rem; margin-top:10px; }
+  .tag { display:inline-block; font-size:.78rem; border-radius:6px; padding:1px 8px; margin-right:6px; background:var(--badbg); color:var(--bad); }
+  .tag.refuse { background:var(--warnbg); color:var(--warn); }
+  .alert { background:var(--badbg); color:var(--bad); border-radius:8px; padding:12px 14px; }
+  .stats { display:grid; grid-template-columns:repeat(auto-fit,minmax(130px,1fr)); gap:8px; margin:0; }
+  .stat { background:var(--bg); border-radius:8px; padding:8px 10px; }
+  .stat b { display:block; font-size:1.1rem; font-variant-numeric:tabular-nums; }
+  .stat span { color:var(--mute); font-size:.8rem; }
+  #viewer h3 { margin:0 0 2px; font-size:.95rem; }
+  #viewer .where { color:var(--mute); font-size:.85rem; margin-bottom:8px; }
+  #viewer pre { margin:0; white-space:pre-wrap; font:inherit; background:var(--bg); border-radius:8px; padding:10px 12px; }
+  .retrieved { color:var(--mute); font-size:.85rem; margin-top:10px; }
+  [hidden] { display:none !important; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Hỏi đáp quy định nghĩa vụ quân sự</h1>
+  <p class="sub">Tra cứu theo Luật NVQS 2015, Thông tư 148/2018 và Thông tư 105/2023 (bản hợp nhất), có trích dẫn Điều/Khoản.</p>
+  <div class="notice" role="note"><b>Chỉ mang tính tham khảo.</b> Không thay thế tư vấn pháp lý; hãy đối chiếu văn bản gốc và hỏi cơ quan quân sự địa phương.</div>
+  <div id="setup" class="alert" hidden></div>
+
+  <form id="form" class="card">
+    <label for="q"><b>Câu hỏi</b></label>
+    <textarea id="q" maxlength="1000" placeholder="Ví dụ: Công dân bao nhiêu tuổi thì bị gọi nhập ngũ?"></textarea>
+    <div class="row">
+      <div class="modes" role="radiogroup" aria-label="Cách trả lời">
+        <label><input type="radio" name="mode" value="long_context" checked> Long-context (đưa toàn bộ văn bản)</label>
+        <label><input type="radio" name="mode" value="bm25"> BM25 (chỉ các Điều liên quan)</label>
+      </div>
+      <button id="go" class="primary" type="submit">Hỏi</button>
+    </div>
+    <div class="hint">Nhấn Ctrl+Enter để gửi. Lần đầu long-context có thể mất vài chục giây.</div>
+  </form>
+
+  <div id="status" role="status" aria-live="polite"></div>
+
+  <section id="result" class="card" hidden>
+    <h2>Câu trả lời</h2>
+    <div id="flags"></div>
+    <div id="answer"></div>
+    <div class="legend">Bấm vào nhãn để xem nội dung Điều/Khoản. Nhãn <span class="chip missing" style="cursor:default">gạch đỏ</span> không tồn tại trong dữ liệu, cần kiểm tra lại.</div>
+    <div id="retrieved" class="retrieved" hidden></div>
+  </section>
+
+  <section id="viewer" class="card" hidden aria-live="polite">
+    <h2>Nội dung trích dẫn</h2>
+    <h3 id="v-title"></h3>
+    <div class="where" id="v-where"></div>
+    <pre id="v-body"></pre>
+  </section>
+
+  <section id="statsCard" class="card" hidden>
+    <h2>Token và thời gian</h2>
+    <div class="stats" id="stats"></div>
+  </section>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const nf = new Intl.NumberFormat("vi-VN");
+
+fetch("/api/status").then(r => r.json()).then(s => {
+  if (!s.api_key) {
+    const el = $("setup");
+    el.hidden = false;
+    el.textContent = "Chưa cấu hình khóa API nên chưa thể hỏi. Xem README để đặt khóa trong file .env rồi chạy lại app.";
+  } else if (s.mock) {
+    const el = $("setup");
+    el.hidden = false;
+    el.className = "notice";
+    el.textContent = "Đang chạy chế độ giả lập (QA_MOCK): câu trả lời là dữ liệu mẫu, không gọi API thật.";
+  }
+}).catch(() => {});
+
+function stat(label, value) {
+  const d = document.createElement("div");
+  d.className = "stat";
+  const b = document.createElement("b"); b.textContent = value;
+  const s = document.createElement("span"); s.textContent = label;
+  d.append(b, s);
+  return d;
+}
+
+function renderAnswer(r) {
+  const box = $("answer");
+  box.textContent = "";
+  const known = new Map(r.citations.map(c => [c.label, c.exists]));
+  const re = /\[([^\[\]|]+(?:\|[^\[\]|]+)+)\]/g;
+  let last = 0, m;
+  while ((m = re.exec(r.answer)) !== null) {
+    box.append(document.createTextNode(r.answer.slice(last, m.index)));
+    const label = m[1].split("|").map(s => s.trim()).join(" | ");
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "chip" + (known.get(label) === false ? " missing" : "");
+    btn.textContent = label;
+    if (known.get(label) === false) btn.title = "Nhãn này không tồn tại trong dữ liệu";
+    btn.addEventListener("click", () => openChunk(label, btn));
+    box.append(btn);
+    last = re.lastIndex;
+  }
+  box.append(document.createTextNode(r.answer.slice(last)));
+}
+
+async function openChunk(label, btn) {
+  document.querySelectorAll(".chip.active").forEach(e => e.classList.remove("active"));
+  btn.classList.add("active");
+  const v = $("viewer");
+  v.hidden = false;
+  try {
+    const res = await fetch("/api/chunk?label=" + encodeURIComponent(label));
+    const data = await res.json();
+    if (!data.ok) {
+      $("v-title").textContent = label;
+      $("v-where").textContent = "";
+      $("v-body").textContent = "Nhãn này không tồn tại trong dữ liệu, nên câu trả lời có thể đã trích sai. Hãy kiểm tra lại với văn bản gốc.";
+    } else {
+      const c = data.chunk;
+      $("v-title").textContent = c.nhan;
+      $("v-where").textContent = "Điều " + c.dieu + (c.dieu_ten ? ". " + c.dieu_ten : "");
+      $("v-body").textContent = c.noi_dung;
+    }
+  } catch (e) {
+    $("v-title").textContent = label;
+    $("v-where").textContent = "";
+    $("v-body").textContent = "Không tải được nội dung. Kiểm tra app còn đang chạy.";
+  }
+  v.scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+
+function showResult(r) {
+  $("result").hidden = false;
+  $("viewer").hidden = true;
+  const flags = $("flags");
+  flags.textContent = "";
+  if (r.refused) {
+    const t = document.createElement("span"); t.className = "tag refuse"; t.textContent = "Không có thông tin trong văn bản";
+    flags.append(t);
+  }
+  const missing = r.citations.filter(c => !c.exists).length;
+  if (missing) {
+    const t = document.createElement("span"); t.className = "tag";
+    t.textContent = missing + " trích dẫn không tồn tại trong dữ liệu";
+    flags.append(t);
+  }
+  renderAnswer(r);
+  const rt = $("retrieved");
+  if (r.retrieved) {
+    rt.hidden = false;
+    rt.textContent = "Các đoạn BM25 đã đưa vào prompt: " + (r.retrieved.join("; ") || "không tìm thấy đoạn nào");
+  } else rt.hidden = true;
+
+  const u = r.usage, st = $("stats");
+  st.textContent = "";
+  st.append(
+    stat("Thời gian phản hồi", r.seconds.toFixed(1) + " giây"),
+    stat("Token đầu vào (không cache)", nf.format(u.input_tokens)),
+    stat("Token ghi vào cache", nf.format(u.cache_write_tokens)),
+    stat("Token đọc từ cache", nf.format(u.cache_read_tokens)),
+    stat("Token đầu ra", nf.format(u.output_tokens)),
+    stat("Tổng token đầu vào", nf.format(u.input_tokens + u.cache_write_tokens + u.cache_read_tokens)),
+  );
+  $("statsCard").hidden = false;
+}
+
+function showError(msg) {
+  const s = $("status");
+  s.textContent = "";
+  const d = document.createElement("div");
+  d.className = "alert";
+  d.textContent = msg;
+  s.append(d);
+}
+
+$("form").addEventListener("submit", async ev => {
+  ev.preventDefault();
+  const question = $("q").value.trim();
+  if (!question) { showError("Hãy nhập câu hỏi."); return; }
+  const mode = document.querySelector("input[name=mode]:checked").value;
+  const go = $("go");
+  go.disabled = true; go.textContent = "Đang hỏi...";
+  $("status").textContent = "Đang gửi câu hỏi và chờ trả lời...";
+  const ctl = new AbortController();
+  const timer = setTimeout(() => ctl.abort(), 150000);
+  try {
+    const res = await fetch("/api/ask", { method: "POST", signal: ctl.signal,
+      headers: { "Content-Type": "application/json" }, body: JSON.stringify({ question, mode }) });
+    const data = await res.json();
+    if (data.ok) { $("status").textContent = ""; showResult(data.result); }
+    else showError(data.error?.message || "Có lỗi xảy ra. Hãy thử lại.");
+  } catch (e) {
+    showError(e.name === "AbortError" ? "Chờ quá lâu không có phản hồi. Hãy thử lại."
+                                      : "Không kết nối được tới app. Kiểm tra app còn đang chạy.");
+  } finally {
+    clearTimeout(timer);
+    go.disabled = false; go.textContent = "Hỏi";
+  }
+});
+
+$("q").addEventListener("keydown", ev => {
+  if (ev.key === "Enter" && (ev.ctrlKey || ev.metaKey)) $("form").requestSubmit();
+});
+</script>
+</body>
+</html>
