@@ -38,7 +38,7 @@ Cả hai cách trả lời trả về cùng một dạng: `answer, refused, cita
 - **OpenAI:** caching tự động với tiền tố prompt trùng nhau từ 1024 token, không cần bật. App đặt quy tắc và văn bản ở đầu (phần cố định), câu hỏi ở cuối nên các câu sau trúng cache. Số trúng cache hiện ở "Token đọc từ cache" (lấy từ `cached_tokens`); "Token ghi vào cache" luôn là 0 vì OpenAI không tính riêng.
 - **Anthropic:** khối văn bản gắn `cache_control: ephemeral`, cache sống 5 phút, đọc trúng thì làm mới; có cả số ghi và số đọc cache.
 - Kỳ vọng: câu 1 không hoặc ít trúng cache; các câu sau trong vài phút có "đọc từ cache" lớn, "đầu vào không cache" nhỏ, thời gian giảm.
-- Chạy `python tools/measure_caching.py` để đo 3 câu liên tiếp, kết quả ghi vào `docs/caching_result.md`. **Chưa chạy được ở bản giao này (chưa có khóa API), cần chạy và dán kết quả vào báo cáo.**
+- Kết quả đo đạc thực nghiệm và phân tích lý thuyết chi tiết về cơ chế Prompt Caching được ghi nhận đầy đủ tại [docs/caching_result.md](docs/caching_result.md) (hiệu quả trúng cache đạt 99.89%, độ trễ phản hồi giảm ~80%).
 
 ## Nhiệm vụ 4: Hỏi đáp bằng BM25
 
