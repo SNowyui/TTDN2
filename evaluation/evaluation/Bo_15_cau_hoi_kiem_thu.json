@@ -7,7 +7,7 @@
     "88/VBHN-BQP: văn bản hợp nhất Thông tư 105/2023 và sửa đổi, bổ sung bởi Thông tư 106/2025, kèm phụ lục được nhúng"
   ],
   "citation_aliases": {
-    "LNVQS2015": "Luật NVQS 2015.docx",
+    "LUAT_NVQS/2015": "Luật NVQS 2015.docx",
     "TT148/2018": "36_VBHN-BQP_670379(tt148 + 68).docx",
     "TT105/2023": "88_VBHN-BQP_681511 (tt 105 + 106).docx và phụ lục nhúng"
   },
@@ -18,7 +18,7 @@
       "question": "Độ tuổi gọi nhập ngũ thông thường là bao nhiêu? Trường hợp nào có thể được gọi đến hết 27 tuổi?",
       "expected_answer": "Công dân đủ 18 tuổi được gọi nhập ngũ; độ tuổi gọi nhập ngũ thông thường là từ đủ 18 tuổi đến hết 25 tuổi. Theo quy định tuyển quân trong văn bản hợp nhất, công dân nam được đào tạo trình độ cao đẳng, đại học đã được tạm hoãn gọi nhập ngũ trong thời gian một khóa đào tạo của một trình độ đào tạo thì có thể được tuyển chọn, gọi nhập ngũ đến hết 27 tuổi.",
       "citations": [
-        "LNVQS2015 | Điều 30",
+        "LUAT_NVQS/2015 | Điều 30",
         "TT148/2018 | Điều 4 | Khoản 1"
       ],
       "expected_behavior": "Trả lời trực tiếp, nêu cả độ tuổi thông thường và điều kiện kéo dài đến hết 27 tuổi.",
@@ -32,7 +32,7 @@
       "question": "Theo Luật Nghĩa vụ quân sự 2015, công dân được gọi nhập ngũ phải đáp ứng những tiêu chuẩn nào?",
       "expected_answer": "Khoản 1 Điều 31 quy định công dân được gọi nhập ngũ khi có đủ các tiêu chuẩn: (1) lý lịch rõ ràng; (2) chấp hành nghiêm đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước; (3) đủ sức khỏe phục vụ tại ngũ theo quy định; (4) có trình độ văn hóa phù hợp.",
       "citations": [
-        "LNVQS2015 | Điều 31 | Khoản 1"
+        "LUAT_NVQS/2015 | Điều 31 | Khoản 1"
       ],
       "expected_behavior": "Trả lời trực tiếp bằng cách liệt kê đủ bốn tiêu chuẩn trong khoản 1.",
       "citation_expected": true,
@@ -45,7 +45,7 @@
       "question": "Hằng năm công dân được gọi nhập ngũ vào thời điểm nào và có thể tổ chức đợt gọi thứ hai không?",
       "expected_answer": "Hằng năm, việc gọi công dân nhập ngũ được thực hiện một lần vào tháng hai hoặc tháng ba. Trường hợp cần thiết vì lý do quốc phòng, an ninh thì có thể gọi nhập ngũ lần thứ hai. Đối với địa phương có thảm họa hoặc dịch bệnh nguy hiểm, thời gian gọi nhập ngũ có thể được điều chỉnh.",
       "citations": [
-        "LNVQS2015 | Điều 33"
+        "LUAT_NVQS/2015 | Điều 33"
       ],
       "expected_behavior": "Trả lời trực tiếp, nêu lần gọi thông thường, điều kiện gọi lần hai và trường hợp điều chỉnh thời gian.",
       "citation_expected": true,
@@ -58,7 +58,7 @@
       "question": "Những trường hợp đang học nào được nêu là căn cứ tạm hoãn gọi nhập ngũ?",
       "expected_answer": "Quy định nêu các trường hợp: đang học tại cơ sở giáo dục phổ thông; đang được đào tạo trình độ đại học hệ chính quy tại cơ sở giáo dục đại học; hoặc trình độ cao đẳng hệ chính quy tại cơ sở giáo dục nghề nghiệp, trong thời gian một khóa đào tạo của một trình độ đào tạo.",
       "citations": [
-        "LNVQS2015 | Điều 41 | Khoản 1",
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
         "TT148/2018 | Điều 5 | Khoản 1"
       ],
       "expected_behavior": "Trả lời có điều kiện, phân biệt hệ chính quy với hình thức đào tạo khác.",
@@ -72,7 +72,7 @@
       "question": "Điều kiện tạm hoãn đối với người phải trực tiếp nuôi dưỡng thân nhân được quy định như thế nào?",
       "expected_answer": "Điểm b khoản 1 Điều 41 nêu trường hợp là lao động duy nhất phải trực tiếp nuôi dưỡng thân nhân không còn khả năng lao động hoặc chưa đến tuổi lao động. Điều khoản cũng nêu trường hợp gia đình bị thiệt hại nặng về người và tài sản do tai nạn, thiên tai, dịch bệnh nguy hiểm gây ra và được Ủy ban nhân dân cấp xã xác nhận. Cần đối chiếu đúng các điều kiện này, không đồng nhất 'người kiếm tiền chính' với 'lao động duy nhất'.",
       "citations": [
-        "LNVQS2015 | Điều 41 | Khoản 1",
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
         "TT148/2018 | Điều 5 | Khoản 1"
       ],
       "expected_behavior": "Trả lời có điều kiện, bám sát cụm từ pháp lý về lao động duy nhất, thân nhân và xác nhận cấp xã.",
@@ -86,7 +86,7 @@
       "question": "Có anh, chị hoặc em ruột đang phục vụ tại ngũ có phải là căn cứ tạm hoãn gọi nhập ngũ không?",
       "expected_answer": "Có. Điểm d khoản 1 Điều 41 nêu trường hợp công dân có anh, chị hoặc em ruột là hạ sĩ quan, binh sĩ đang phục vụ tại ngũ; hoặc là hạ sĩ quan, chiến sĩ thực hiện nghĩa vụ tham gia Công an nhân dân.",
       "citations": [
-        "LNVQS2015 | Điều 41 | Khoản 1",
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
         "TT148/2018 | Điều 5 | Khoản 1"
       ],
       "expected_behavior": "Trả lời trực tiếp và nêu đúng nhóm người thân đang phục vụ được điều khoản liệt kê.",
@@ -100,7 +100,7 @@
       "question": "Con của liệt sĩ có thuộc trường hợp được miễn gọi nhập ngũ không?",
       "expected_answer": "Có. Điểm a khoản 2 Điều 41 quy định con của liệt sĩ và con của thương binh hạng một thuộc trường hợp được miễn gọi nhập ngũ.",
       "citations": [
-        "LNVQS2015 | Điều 41 | Khoản 2",
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 2",
         "TT148/2018 | Điều 5 | Khoản 2"
       ],
       "expected_behavior": "Trả lời trực tiếp, phân biệt miễn gọi nhập ngũ với tạm hoãn gọi nhập ngũ.",
@@ -114,7 +114,7 @@
       "question": "Nếu lý do tạm hoãn gọi nhập ngũ không còn, hoặc người thuộc diện tạm hoãn/miễn tự nguyện nhập ngũ, thì xử lý thế nào?",
       "expected_answer": "Công dân thuộc diện tạm hoãn nếu không còn lý do tạm hoãn thì được gọi nhập ngũ. Công dân thuộc diện tạm hoãn hoặc miễn gọi nhập ngũ nếu tình nguyện thì được xem xét tuyển chọn và gọi nhập ngũ; văn bản dùng cụm từ 'được xem xét', không có nghĩa là tự động được gọi.",
       "citations": [
-        "LNVQS2015 | Điều 41 | Khoản 3",
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 3",
         "TT148/2018 | Điều 5 | Khoản 3"
       ],
       "expected_behavior": "Trả lời có phân biệt hai tình huống và giữ đúng mức độ pháp lý của cụm từ 'được xem xét'.",
@@ -181,7 +181,7 @@
       "question": "Tôi đang học đại học. Tôi có được tạm hoãn gọi nhập ngũ không?",
       "expected_answer": "Chưa đủ thông tin để kết luận. Quy định trong tài liệu áp dụng với người đang được đào tạo trình độ đại học hệ chính quy tại cơ sở giáo dục đại học, trong thời gian một khóa đào tạo của một trình độ đào tạo. Cần xác nhận hình thức đào tạo của bạn có phải hệ chính quy hay không và bạn có đang trong thời gian khóa đào tạo của trình độ đó hay không. Nếu đáp ứng điều kiện thì đây là căn cứ tạm hoãn, không phải miễn gọi nhập ngũ.",
       "citations": [
-        "LNVQS2015 | Điều 41 | Khoản 1",
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
         "TT148/2018 | Điều 5 | Khoản 1"
       ],
       "expected_behavior": "Nêu thiếu dữ kiện, hỏi làm rõ hệ đào tạo và thời gian khóa học; không khẳng định có/không chỉ từ cụm 'đang học đại học'.",
@@ -195,7 +195,7 @@
       "question": "Tôi là người kiếm tiền chính trong nhà và bố mẹ đã lớn tuổi. Tôi có được tạm hoãn gọi nhập ngũ không?",
       "expected_answer": "Chưa đủ thông tin để kết luận. Điều khoản nêu căn cứ tạm hoãn đối với người là lao động duy nhất phải trực tiếp nuôi dưỡng thân nhân không còn khả năng lao động hoặc chưa đến tuổi lao động. Thông tin 'kiếm tiền chính' chưa xác nhận bạn có phải lao động duy nhất hay không; 'bố mẹ lớn tuổi' cũng chưa tự chứng minh bố mẹ không còn khả năng lao động. Cần làm rõ hai nội dung này. Không nên khẳng định được tạm hoãn chỉ dựa trên mô tả hiện tại.",
       "citations": [
-        "LNVQS2015 | Điều 41 | Khoản 1",
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
         "TT148/2018 | Điều 5 | Khoản 1"
       ],
       "expected_behavior": "Không kết luận; nêu đúng điều kiện pháp lý còn thiếu và yêu cầu làm rõ.",
