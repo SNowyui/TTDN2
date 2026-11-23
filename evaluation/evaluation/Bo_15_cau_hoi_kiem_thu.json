@@ -142,7 +142,7 @@
       "question": "Theo Thông tư 105/2023, mỗi chỉ tiêu sức khỏe được chấm điểm ra sao và sức khỏe loại 1 được xác định thế nào?",
       "expected_answer": "Mỗi chỉ tiêu sau khi khám được chấm điểm chẵn từ 1 đến 6:Điểm 1: Sức khỏe rất tốt;Điểm 2: Sức khỏe tốt;Điểm 3: Sức khỏe khá;Điểm 4: Sức khỏe trung bình;Điểm 5: Sức khỏe kém;Điểm 6: Sức khỏe rất kém. Sức khỏe loại 1 là trường hợp tất cả các chỉ tiêu đều đạt điểm 1.",
       "citations": [
-       "TT105/2023 | Điều 6 | Khoản 1"
+       "TT105/2023 | Điều 6 | Khoản 1",
        "TT105/2023 | Điều 6 | Khoản 2"
       ],
       "expected_behavior": "Trả lời theo thang điểm và nêu chính xác điều kiện của loại 1.",
