@@ -19,7 +19,9 @@ Chỉ dùng thư viện chuẩn của Python 3.9+, không cần cài gói nào.
 | ----------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | `qa/long_context.py`, `qa/core.py`, `qa/llm.py` | NV3: long-context, prompt, gọi API, xử lý lỗi | người 2                                                                                                   |
 | `app.py`, `static/index.html`                   | NV9: giao diện                                | người 2                                                                                                   |
-| `qa/bm25.py`, `qa/citations.py`                 | NV4, NV5                                      | **bản tạm**, người 3 thay                                                                                 |
+| `qa/bm25.py`, `qa/citations.py`                 | NV4, NV5: BM25 Okapi (Inverted Index, mở rộng Điều), chuẩn hóa & kiểm tra trích dẫn | người 3                                                                                                   |
+| `tests/test_task4_task5.py`                     | Unit tests cho NV4 và NV5                     | người 3                                                                                                   |
+| `docs/bao_cao_nhiem_vu_4_5.md`                  | Báo cáo chi tiết thuật toán và đánh giá thực nghiệm NV4, NV5 | người 3                                                                                                   |
 | `Luật_NVQS_2015.md`, `36_VBHN...md`, `88_VBHN...md` | NV1: 3 file Markdown giữ cấu trúc Điều/Khoản, bảng biểu, nhãn chuẩn | người 1 |
 | `data/chunks.json`, `tools/build_chunks.py`     | NV2: dữ liệu có cấu trúc từ Markdown (329 chunks, UTF-8) | người 1 |
 | `docs/bao_cao_nhiem_vu_1_2.md`                  | Báo cáo đối chiếu văn bản gốc, lỗi gặp phải, kiểm tra ngẫu nhiên 3 Điều, 2 bảng | người 1 |
@@ -37,6 +39,21 @@ Cả hai cách trả lời trả về cùng một dạng: `answer, refused, cita
 - **Anthropic:** khối văn bản gắn `cache_control: ephemeral`, cache sống 5 phút, đọc trúng thì làm mới; có cả số ghi và số đọc cache.
 - Kỳ vọng: câu 1 không hoặc ít trúng cache; các câu sau trong vài phút có "đọc từ cache" lớn, "đầu vào không cache" nhỏ, thời gian giảm.
 - Chạy `python tools/measure_caching.py` để đo 3 câu liên tiếp, kết quả ghi vào `docs/caching_result.md`. **Chưa chạy được ở bản giao này (chưa có khóa API), cần chạy và dán kết quả vào báo cáo.**
+
+## Nhiệm vụ 4: Hỏi đáp bằng BM25
+
+- **Lập chỉ mục toàn diện:** Mỗi chunk được biểu diễn bằng văn bản kết hợp: bí danh văn bản (`LUAT_NVQS/2015`, `TT148/2018`, `TT105/2023`), số hiệu Điều, tên Điều, Khoản và nội dung đầy đủ.
+- **Tối ưu tiếng Việt:** Tokenizer hỗ trợ unigram, bigram âm tiết (`độ_tuổi`, `tạm_hoãn`, `cận_thị`), giữ nguyên giá trị số thực (như `1.5`, `29.9`, `18.0`), và lọc từ dừng tiếng Việt (stopwords).
+- **Chỉ mục Inverted Index & Caching:** Toàn bộ 329 chunks được xây dựng chỉ mục ngược và tính toán IDF/độ dài một lần duy nhất, giúp tốc độ truy hồi dưới 1ms mỗi truy vấn.
+- **Mở rộng ngữ cảnh cấp Điều (Context Expansion):** Đáp ứng đúng yêu cầu "tìm các Điều liên quan", hệ thống tự động nhận diện các Điều có độ khớp cao và mở rộng đầy đủ các Khoản thuộc Điều đó vào prompt, tránh tình trạng đứt đoạn ngữ cảnh.
+- Tham số BM25 được điều chỉnh phù hợp với văn bản quy phạm pháp luật: $k_1 = 1.5, b = 0.35$.
+
+## Nhiệm vụ 5: Kiểm tra trích dẫn (Citation Verification)
+
+- **Trích xuất nhãn:** Dùng biểu thức chính quy nhận diện chính xác các nhãn trích dẫn trong câu trả lời dạng `[VĂN_BẢN | Điều X | Khoản Y]`.
+- **Chuẩn hóa linh hoạt:** Hỗ trợ chuẩn hóa khoảng trắng quanh dấu gạch `|`, không phân biệt hoa/thường, và ánh xạ các biến thể tên văn bản về mã định danh chuẩn.
+- **Xác thực tồn tại:** So khớp nhãn trích dẫn với tập hợp nhãn chuẩn trong `chunks.json`. Trả về danh sách `[{"label": str, "exists": bool}]` không trùng lặp và giữ nguyên thứ tự xuất hiện.
+- Phục vụ trực tiếp cho giao diện Nhiệm vụ 9: nhãn hợp lệ có thể bấm để xem nội dung Điều/Khoản, nhãn không tồn tại bị gạch đỏ và cảnh báo trích dẫn ảo.
 
 ## Nhiệm vụ 9: giao diện
 
