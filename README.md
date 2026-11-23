@@ -20,7 +20,9 @@ Chỉ dùng thư viện chuẩn của Python 3.9+, không cần cài gói nào.
 | `qa/long_context.py`, `qa/core.py`, `qa/llm.py` | NV3: long-context, prompt, gọi API, xử lý lỗi | người 2                                                                                                   |
 | `app.py`, `static/index.html`                   | NV9: giao diện                                | người 2                                                                                                   |
 | `qa/bm25.py`, `qa/citations.py`                 | NV4, NV5                                      | **bản tạm**, người 3 thay                                                                                 |
-| `data/chunks.json`, `tools/build_chunks.py`     | NV2                                           | **bản tạm** tạo từ 3 file `.md` của người 1 (`python tools/build_chunks.py a.md b.md c.md`), người 1 thay |
+| `Luật_NVQS_2015.md`, `36_VBHN...md`, `88_VBHN...md` | NV1: 3 file Markdown giữ cấu trúc Điều/Khoản, bảng biểu, nhãn chuẩn | người 1 |
+| `data/chunks.json`, `tools/build_chunks.py`     | NV2: dữ liệu có cấu trúc từ Markdown (329 chunks, UTF-8) | người 1 |
+| `docs/bao_cao_nhiem_vu_1_2.md`                  | Báo cáo đối chiếu văn bản gốc, lỗi gặp phải, kiểm tra ngẫu nhiên 3 Điều, 2 bảng | người 1 |
 
 Lưu ý: gọi OpenAI qua Responses API chưa được thử với khóa thật; nếu lỗi, đọc thông báo trên giao diện và báo lại.
 

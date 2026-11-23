@@ -14,55 +14,55 @@ NGHĨA VỤ QUÂN SỰ
 
 ## Điều 1. Phạm vi điều chỉnh
 
-[LNVQS2015-D1]
+[LUAT_NVQS/2015 | Điều 1]
 Luật này quy định về nghĩa vụ quân sự; nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân và chế độ, chính sách trong việc thực hiện nghĩa vụ quân sự.
 
 ## Điều 2. Đối tượng áp dụng
 
-[LNVQS2015-D2]
+[LUAT_NVQS/2015 | Điều 2]
 Luật này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến nghĩa vụ quân sự.
 
 ## Điều 3. Giải thích từ ngữ
 
-[LNVQS2015-D3]
+[LUAT_NVQS/2015 | Điều 3]
 Trong Luật này các từ ngữ dưới đây được hiểu như sau:
 
-[LNVQS2015-D3-K1]
+[LUAT_NVQS/2015 | Điều 3 | Khoản 1]
 1. *Độ tuổi thực hiện nghĩa vụ quân sự* là độ tuổi công dân thực hiện nghĩa vụ phục vụ tại ngũ và phục vụ trong ngạch dự bị của Quân đội nhân dân.
 
-[LNVQS2015-D3-K2]
+[LUAT_NVQS/2015 | Điều 3 | Khoản 2]
 2. *Đăng ký nghĩa vụ quân sự* là việc lập hồ sơ về nghĩa vụ quân sự của công dân trong độ tuổi thực hiện nghĩa vụ quân sự.
 
-[LNVQS2015-D3-K3]
+[LUAT_NVQS/2015 | Điều 3 | Khoản 3]
 3. *Nhập ngũ* là việc công dân vào phục vụ có thời hạn trong lực lượng thường trực của Quân đội nhân dân và lực lượng Cảnh sát biển.
 
-[LNVQS2015-D3-K4]
+[LUAT_NVQS/2015 | Điều 3 | Khoản 4]
 4. *Xuất ngũ* là việc hạ sĩ quan, binh sĩ thôi phục vụ tại ngũ trong Quân đội nhân dân và lực lượng Cảnh sát biển.
 
-[LNVQS2015-D3-K5]
+[LUAT_NVQS/2015 | Điều 3 | Khoản 5]
 5. *Hạ sĩ quan, binh sĩ tại ngũ* là công dân đang phục vụ trong lực lượng thường trực của Quân đội nhân dân và lực lượng Cảnh sát biển.
 
-[LNVQS2015-D3-K6]
+[LUAT_NVQS/2015 | Điều 3 | Khoản 6]
 6. *Hạ sĩ quan, binh sĩ dự bị* là công dân đã đăng ký phục vụ trong ngạch dự bị của Quân đội nhân dân.
 
-[LNVQS2015-D3-K7]
+[LUAT_NVQS/2015 | Điều 3 | Khoản 7]
 7. *Giải ngạch dự bị* là chuyển hạ sĩ quan, binh sĩ dự bị ra khỏi lực lượng dự bị của Quân đội nhân dân.
 
-[LNVQS2015-D3-K8]
+[LUAT_NVQS/2015 | Điều 3 | Khoản 8]
 8. *Trốn tránh thực hiện nghĩa vụ quân sự* là hành vi không chấp hành lệnh gọi đăng ký nghĩa vụ quân sự; lệnh gọi khám sức khỏe nghĩa vụ quân sự; lệnh gọi nhập ngũ; lệnh gọi tập trung huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu.
 
 ## Điều 4. Nghĩa vụ quân sự
 
-[LNVQS2015-D4-K1]
+[LUAT_NVQS/2015 | Điều 4 | Khoản 1]
 1. Nghĩa vụ quân sự là nghĩa vụ vẻ vang của công dân phục vụ trong Quân đội nhân dân. Thực hiện nghĩa vụ quân sự bao gồm phục vụ tại ngũ và phục vụ trong ngạch dự bị của Quân đội nhân dân.
 
-[LNVQS2015-D4-K2]
+[LUAT_NVQS/2015 | Điều 4 | Khoản 2]
 2. Công dân trong độ tuổi thực hiện nghĩa vụ quân sự, không phân biệt dân tộc, thành phần xã hội, tín ngưỡng, tôn giáo, trình độ học vấn, nghề nghiệp, nơi cư trú phải thực hiện nghĩa vụ quân sự theo quy định của Luật này.
 
-[LNVQS2015-D4-K3]
+[LUAT_NVQS/2015 | Điều 4 | Khoản 3]
 3. Công dân phục vụ trong lực lượng Cảnh sát biển và thực hiện nghĩa vụ tham gia Công an nhân dân được coi là thực hiện nghĩa vụ quân sự tại ngũ.
 
-[LNVQS2015-D4-K4]
+[LUAT_NVQS/2015 | Điều 4 | Khoản 4]
 4. Công dân thuộc một trong các trường hợp sau đây được công nhận hoàn thành nghĩa vụ quân sự tại ngũ trong thời bình:
 
 a) Dân quân tự vệ nòng cốt đã hoàn thành nghĩa vụ tham gia dân quân tự vệ, trong đó có ít nhất 12 tháng làm nhiệm vụ dân quân tự vệ thường trực;
@@ -77,20 +77,20 @@ d) Thanh niên đã tốt nghiệp đại học, cao đẳng, trung cấp tình 
 
 ## Điều 5. Trách nhiệm của cơ quan, tổ chức, cá nhân và gia đình trong thực hiện nghĩa vụ quân sự
 
-[LNVQS2015-D5]
+[LUAT_NVQS/2015 | Điều 5]
 Cơ quan, tổ chức, cá nhân và gia đình có trách nhiệm giáo dục, động viên và tạo điều kiện cho công dân thực hiện nghĩa vụ quân sự.
 
 ## Điều 6. Nghĩa vụ phục vụ tại ngũ
 
-[LNVQS2015-D6-K1]
+[LUAT_NVQS/2015 | Điều 6 | Khoản 1]
 1. Công dân nam trong độ tuổi thực hiện nghĩa vụ quân sự có nghĩa vụ phục vụ tại ngũ trong Quân đội nhân dân.
 
-[LNVQS2015-D6-K2]
+[LUAT_NVQS/2015 | Điều 6 | Khoản 2]
 2. Công dân nữ trong độ tuổi thực hiện nghĩa vụ quân sự trong thời bình nếu tự nguyện và quân đội có nhu cầu thì được phục vụ tại ngũ.
 
 ## Điều 7. Nghĩa vụ phục vụ trong ngạch dự bị
 
-[LNVQS2015-D7-K1]
+[LUAT_NVQS/2015 | Điều 7 | Khoản 1]
 1. Công dân nam trong độ tuổi thực hiện nghĩa vụ quân sự có nghĩa vụ phục vụ trong ngạch dự bị bao gồm các trường hợp sau đây:
 
 a) Hết độ tuổi gọi nhập ngũ nhưng chưa phục vụ tại ngũ;
@@ -99,14 +99,14 @@ b) Thôi phục vụ tại ngũ;
 
 c) Thôi phục vụ trong Công an nhân dân.
 
-[LNVQS2015-D7-K2]
+[LUAT_NVQS/2015 | Điều 7 | Khoản 2]
 2. Công dân nữ trong độ tuổi thực hiện nghĩa vụ quân sự có ngành, nghề chuyên môn phù hợp yêu cầu của Quân đội nhân dân.
 
 Chính phủ quy định ngành, nghề chuyên môn tại khoản này.
 
 ## Điều 8. Chức vụ, cấp bậc quân hàm của hạ sĩ quan, binh sĩ
 
-[LNVQS2015-D8-K1]
+[LUAT_NVQS/2015 | Điều 8 | Khoản 1]
 1. Chức vụ của hạ sĩ quan, binh sĩ:
 
 a) Phó trung đội trưởng và tương đương;
@@ -117,7 +117,7 @@ c) Phó tiểu đội trưởng và tương đương;
 
 d) Chiến sĩ.
 
-[LNVQS2015-D8-K2]
+[LUAT_NVQS/2015 | Điều 8 | Khoản 2]
 2. Cấp bậc quân hàm của hạ sĩ quan, binh sĩ:
 
 a) Thượng sĩ;
@@ -130,18 +130,18 @@ d) Binh nhất;
 
 đ) Binh nhì.
 
-[LNVQS2015-D8-K3]
+[LUAT_NVQS/2015 | Điều 8 | Khoản 3]
 3. Hạ sĩ quan, binh sĩ tại ngũ và hạ sĩ quan, binh sĩ dự bị được phong, thăng cấp bậc quân hàm tương ứng với chức vụ; có thành tích xuất sắc trong thực hiện nhiệm vụ thì được thăng quân hàm trước thời hạn; có thành tích đặc biệt xuất sắc thì được xét thăng quân hàm vượt bậc.
 
-[LNVQS2015-D8-K4]
+[LUAT_NVQS/2015 | Điều 8 | Khoản 4]
 4. Bộ trưởng Bộ Quốc phòng quy định phong, thăng, giáng, tước cấp bậc quân hàm; bổ nhiệm chức vụ, giáng chức, cách chức; quy định chức vụ tương đương và cấp bậc quân hàm cao nhất đối với chức vụ của hạ sĩ quan, binh sĩ quy định tại khoản 1 và khoản 2 Điều này.
 
 ## Điều 9. Quyền và nghĩa vụ của hạ sĩ quan, binh sĩ
 
-[LNVQS2015-D9-K1]
+[LUAT_NVQS/2015 | Điều 9 | Khoản 1]
 1. Hạ sĩ quan, binh sĩ được Nhà nước bảo đảm chế độ, chính sách ưu đãi phù hợp với tính chất hoạt động của Quân đội nhân dân.
 
-[LNVQS2015-D9-K2]
+[LUAT_NVQS/2015 | Điều 9 | Khoản 2]
 2. Hạ sĩ quan, binh sĩ có nghĩa vụ:
 
 a) Tuyệt đối trung thành với Tổ quốc, Nhân dân, với Đảng và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam;
@@ -156,51 +156,51 @@ d) Chấp hành nghiêm đường lối, chủ trương của Đảng, chính s�
 
 ## Điều 10. Các hành vi bị nghiêm cấm
 
-[LNVQS2015-D10-K1]
+[LUAT_NVQS/2015 | Điều 10 | Khoản 1]
 1. Trốn tránh thực hiện nghĩa vụ quân sự.
 
-[LNVQS2015-D10-K2]
+[LUAT_NVQS/2015 | Điều 10 | Khoản 2]
 2. Chống đối, cản trở việc thực hiện nghĩa vụ quân sự.
 
-[LNVQS2015-D10-K3]
+[LUAT_NVQS/2015 | Điều 10 | Khoản 3]
 3. Gian dối trong khám sức khỏe nghĩa vụ quân sự.
 
-[LNVQS2015-D10-K4]
+[LUAT_NVQS/2015 | Điều 10 | Khoản 4]
 4. Lợi dụng chức vụ, quyền hạn làm trái quy định về nghĩa vụ quân sự.
 
-[LNVQS2015-D10-K5]
+[LUAT_NVQS/2015 | Điều 10 | Khoản 5]
 5. Sử dụng hạ sĩ quan, binh sĩ trái quy định của pháp luật.
 
-[LNVQS2015-D10-K6]
+[LUAT_NVQS/2015 | Điều 10 | Khoản 6]
 6. Xâm phạm thân thể, sức khỏe; xúc phạm danh dự, nhân phẩm của hạ sĩ quan, binh sĩ.
 
 # Chương II. ĐĂNG KÝ NGHĨA VỤ QUÂN SỰ VÀ QUẢN LÝ CÔNG DÂN TRONG ĐỘ TUỔI THỰC HIỆN NGHĨA VỤ QUÂN SỰ
 
 ## Điều 11. Nguyên tắc đăng ký nghĩa vụ quân sự và quản lý công dân trong độ tuổi thực hiện nghĩa vụ quân sự
 
-[LNVQS2015-D11-K1]
+[LUAT_NVQS/2015 | Điều 11 | Khoản 1]
 1. Đúng đối tượng, trình tự thủ tục, chế độ chính sách theo quy định của pháp luật.
 
-[LNVQS2015-D11-K2]
+[LUAT_NVQS/2015 | Điều 11 | Khoản 2]
 2. Thống nhất, công khai, minh bạch, thuận lợi cho công dân.
 
-[LNVQS2015-D11-K3]
+[LUAT_NVQS/2015 | Điều 11 | Khoản 3]
 3. Quản lý chặt chẽ, nắm chắc số lượng, chất lượng, nhân thân của công dân trong độ tuổi thực hiện nghĩa vụ quân sự.
 
-[LNVQS2015-D11-K4]
+[LUAT_NVQS/2015 | Điều 11 | Khoản 4]
 4. Mọi thay đổi về cư trú của công dân trong độ tuổi thực hiện nghĩa vụ quân sự phải được đăng ký và quản lý theo quy định của pháp luật.
 
 ## Điều 12. Đối tượng đăng ký nghĩa vụ quân sự
 
-[LNVQS2015-D12-K1]
+[LUAT_NVQS/2015 | Điều 12 | Khoản 1]
 1. Công dân nam đủ 17 tuổi trở lên.
 
-[LNVQS2015-D12-K2]
+[LUAT_NVQS/2015 | Điều 12 | Khoản 2]
 2. Công dân nữ quy định tại khoản 2 Điều 7 của Luật này đủ 18 tuổi trở lên.
 
 ## Điều 13. Đối tượng không được đăng ký nghĩa vụ quân sự
 
-[LNVQS2015-D13-K1]
+[LUAT_NVQS/2015 | Điều 13 | Khoản 1]
 1. Công dân thuộc một trong các trường hợp sau đây không được đăng ký nghĩa vụ quân sự:
 
 a) Đang bị truy cứu trách nhiệm hình sự; đang chấp hành hình phạt tù, cải tạo không giam giữ, quản chế hoặc đã chấp hành xong hình phạt tù nhưng chưa được xóa án tích;
@@ -209,64 +209,64 @@ b) Đang bị áp dụng biện pháp giáo dục tại xã, phường, thị tr
 
 c) Bị tước quyền phục vụ trong lực lượng vũ trang nhân dân.
 
-[LNVQS2015-D13-K2]
+[LUAT_NVQS/2015 | Điều 13 | Khoản 2]
 2. Khi hết thời hạn áp dụng các biện pháp quy định tại khoản 1 Điều này, công dân được đăng ký nghĩa vụ quân sự.
 
 ## Điều 14. Đối tượng miễn đăng ký nghĩa vụ quân sự
 
-[LNVQS2015-D14]
+[LUAT_NVQS/2015 | Điều 14]
 Người khuyết tật, người mắc bệnh hiểm nghèo, bệnh tâm thần hoặc bệnh mãn tính theo quy định của pháp luật.
 
 ## Điều 15. Cơ quan đăng ký nghĩa vụ quân sự
 
-[LNVQS2015-D15-K1]
+[LUAT_NVQS/2015 | Điều 15 | Khoản 1]
 1. Ban Chỉ huy quân sự cấp xã thực hiện đăng ký nghĩa vụ quân sự cho công dân cư trú tại địa phương.
 
-[LNVQS2015-D15-K2]
+[LUAT_NVQS/2015 | Điều 15 | Khoản 2]
 2. Ban Chỉ huy quân sự cơ quan, tổ chức ở cơ sở thực hiện đăng ký nghĩa vụ quân sự cho công dân làm việc, học tập tại cơ quan, tổ chức và tổng hợp báo cáo Ban Chỉ huy quân sự huyện, quận, thị xã, thành phố thuộc tỉnh và đơn vị hành chính tương đương (sau đây gọi chung là cấp huyện) nơi cơ quan, tổ chức đặt trụ sở; trường hợp cơ quan, tổ chức không có Ban Chỉ huy quân sự ở cơ sở thì người đứng đầu hoặc người đại diện hợp pháp của cơ quan, tổ chức có trách nhiệm tổ chức cho công dân thực hiện đăng ký nghĩa vụ quân sự tại nơi cư trú.
 
 ## Điều 16. Đăng ký nghĩa vụ quân sự lần đầu
 
-[LNVQS2015-D16-K1]
+[LUAT_NVQS/2015 | Điều 16 | Khoản 1]
 1. Tháng một hằng năm, Chủ tịch Ủy ban nhân dân cấp xã, người đứng đầu hoặc người đại diện hợp pháp của cơ quan, tổ chức báo cáo Ban Chỉ huy quân sự cấp huyện danh sách công dân nam đủ 17 tuổi trong năm và công dân nam trong độ tuổi thực hiện nghĩa vụ quân sự chưa đăng ký nghĩa vụ quân sự.
 
-[LNVQS2015-D16-K2]
+[LUAT_NVQS/2015 | Điều 16 | Khoản 2]
 2. Tháng tư hằng năm, Chỉ huy trưởng Ban Chỉ huy quân sự cấp huyện ra lệnh gọi công dân quy định tại khoản 1 Điều này để đăng ký nghĩa vụ quân sự lần đầu.
 
-[LNVQS2015-D16-K3]
+[LUAT_NVQS/2015 | Điều 16 | Khoản 3]
 3. Công dân đăng ký nghĩa vụ quân sự lần đầu phải trực tiếp đăng ký tại cơ quan đăng ký nghĩa vụ quân sự quy định tại Điều 15 của Luật này.
 
 ## Điều 17. Đăng ký nghĩa vụ quân sự bổ sung; khi thay đổi nơi cư trú hoặc nơi làm việc, học tập; tạm vắng; đăng ký miễn gọi nhập ngũ trong thời chiến
 
-[LNVQS2015-D17-K1]
+[LUAT_NVQS/2015 | Điều 17 | Khoản 1]
 1. Đăng ký nghĩa vụ quân sự bổ sung:
 
 Công dân đã đăng ký nghĩa vụ quân sự khi thay đổi chức vụ công tác, trình độ học vấn, trình độ chuyên môn, tình trạng sức khỏe và thông tin khác có liên quan đến nghĩa vụ quân sự phải đăng ký bổ sung tại cơ quan đăng ký nghĩa vụ quân sự.
 
-[LNVQS2015-D17-K2]
+[LUAT_NVQS/2015 | Điều 17 | Khoản 2]
 2. Đăng ký nghĩa vụ quân sự khi thay đổi nơi cư trú hoặc nơi làm việc, học tập:
 
 a) Công dân đã đăng ký nghĩa vụ quân sự khi thay đổi nơi cư trú hoặc nơi làm việc, học tập phải đến cơ quan đã đăng ký nghĩa vụ quân sự làm thủ tục chuyển đăng ký nghĩa vụ quân sự; trong thời hạn 10 ngày làm việc, kể từ ngày đến nơi cư trú hoặc nơi làm việc, học tập mới phải đến cơ quan đăng ký nghĩa vụ quân sự để đăng ký chuyển đến;
 
 b) Công dân đã đăng ký nghĩa vụ quân sự được gọi vào học tập tại các trường thuộc cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học thuộc hệ thống giáo dục quốc dân phải đến cơ quan đã đăng ký nghĩa vụ quân sự làm thủ tục chuyển đăng ký nghĩa vụ quân sự đến cơ sở giáo dục; sau khi thôi học phải làm thủ tục chuyển đăng ký nghĩa vụ quân sự về nơi cư trú hoặc nơi làm việc mới. Người đứng đầu cơ sở giáo dục có trách nhiệm tổ chức cho công dân đăng ký nghĩa vụ quân sự và chuyển đăng ký nghĩa vụ quân sự.
 
-[LNVQS2015-D17-K3]
+[LUAT_NVQS/2015 | Điều 17 | Khoản 3]
 3. Đăng ký nghĩa vụ quân sự tạm vắng:
 
 Công dân đã đăng ký nghĩa vụ quân sự, nếu đi khỏi nơi cư trú hoặc nơi làm việc, học tập từ 03 tháng trở lên phải đến nơi đăng ký nghĩa vụ quân sự để đăng ký nghĩa vụ quân sự tạm vắng; khi trở về nơi cư trú hoặc nơi làm việc, học tập trong thời hạn 10 ngày làm việc phải đăng ký lại.
 
-[LNVQS2015-D17-K4]
+[LUAT_NVQS/2015 | Điều 17 | Khoản 4]
 4. Công dân thuộc diện miễn gọi nhập ngũ trong thời chiến được đăng ký theo quy định của Chính phủ.
 
 ## Điều 18. Đăng ký phục vụ trong ngạch dự bị
 
-[LNVQS2015-D18-K1]
+[LUAT_NVQS/2015 | Điều 18 | Khoản 1]
 1. Công dân nam quy định tại điểm a khoản 1 Điều 7 của Luật này.
 
-[LNVQS2015-D18-K2]
+[LUAT_NVQS/2015 | Điều 18 | Khoản 2]
 2. Công dân nữ quy định tại khoản 2 Điều 7 của Luật này.
 
-[LNVQS2015-D18-K3]
+[LUAT_NVQS/2015 | Điều 18 | Khoản 3]
 3. Công dân trong độ tuổi thực hiện nghĩa vụ quân sự thuộc một trong các trường hợp sau đây:
 
 a) Hạ sĩ quan, binh sĩ xuất ngũ;
@@ -277,7 +277,7 @@ c) Công dân thôi phục vụ trong Công an nhân dân.
 
 ## Điều 19. Đưa ra khỏi danh sách đăng ký nghĩa vụ quân sự
 
-[LNVQS2015-D19-K1]
+[LUAT_NVQS/2015 | Điều 19 | Khoản 1]
 1. Công dân được đưa ra khỏi danh sách đăng ký nghĩa vụ quân sự trong trường hợp sau đây:
 
 a) Chết;
@@ -286,28 +286,28 @@ b) Hết độ tuổi phục vụ trong ngạch dự bị;
 
 c) Trường hợp quy định tại khoản 1 Điều 13 hoặc Điều 14 của Luật này.
 
-[LNVQS2015-D19-K2]
+[LUAT_NVQS/2015 | Điều 19 | Khoản 2]
 2. Trong thời hạn 10 ngày, kể từ ngày có xác nhận của cấp có thẩm quyền, Ban Chỉ huy quân sự cấp xã, cơ quan, tổ chức có công dân quy định tại khoản 1 Điều này phải báo cáo Ban Chỉ huy quân sự cấp huyện quyết định.
 
 ## Điều 20. Trách nhiệm, quyền hạn của cơ quan, tổ chức, cá nhân trong đăng ký nghĩa vụ quân sự và quản lý công dân trong độ tuổi thực hiện nghĩa vụ quân sự
 
-[LNVQS2015-D20-K1]
+[LUAT_NVQS/2015 | Điều 20 | Khoản 1]
 1. Chính phủ quy định chi tiết trình tự, thủ tục đăng ký nghĩa vụ quân sự.
 
-[LNVQS2015-D20-K2]
+[LUAT_NVQS/2015 | Điều 20 | Khoản 2]
 2. Bộ trưởng Bộ Quốc phòng có trách nhiệm tổ chức chỉ đạo, hướng dẫn việc đăng ký nghĩa vụ quân sự, quy định hệ thống mẫu biểu đăng ký nghĩa vụ quân sự, chế độ báo cáo, chế độ kiểm tra việc đăng ký nghĩa vụ quân sự; quản lý công dân trong độ tuổi thực hiện nghĩa vụ quân sự; xây dựng và quản lý thống nhất cơ sở dữ liệu nghĩa vụ quân sự.
 
-[LNVQS2015-D20-K3]
+[LUAT_NVQS/2015 | Điều 20 | Khoản 3]
 3. Ủy ban nhân dân các cấp có trách nhiệm chỉ đạo thực hiện việc đăng ký nghĩa vụ quân sự và quản lý công dân trong độ tuổi thực hiện nghĩa vụ quân sự ở địa phương theo quy định của pháp luật.
 
-[LNVQS2015-D20-K4]
+[LUAT_NVQS/2015 | Điều 20 | Khoản 4]
 4. Cơ quan quân sự cấp huyện, cấp xã trong phạm vi nhiệm vụ, quyền hạn có trách nhiệm:
 
 a) Tổ chức thực hiện đăng ký nghĩa vụ quân sự và cấp giấy chứng nhận đăng ký nghĩa vụ quân sự;
 
 b) Chủ trì, phối hợp với cơ quan liên quan quản lý công dân trong độ tuổi thực hiện nghĩa vụ quân sự.
 
-[LNVQS2015-D20-K5]
+[LUAT_NVQS/2015 | Điều 20 | Khoản 5]
 5. Cơ quan công an cấp huyện, cấp xã trong phạm vi nhiệm vụ, quyền hạn có trách nhiệm:
 
 a) Kịp thời thông báo cho Ban Chỉ huy quân sự cùng cấp nơi công dân trong độ tuổi thực hiện nghĩa vụ quân sự đang cư trú về việc họ bị truy cứu trách nhiệm hình sự;
@@ -316,7 +316,7 @@ b) Thông báo cho Ban Chỉ huy quân sự cùng cấp thay đổi về nơi th
 
 c) Phối hợp với cơ quan quân sự địa phương và cơ quan liên quan khác kiểm tra, xử lý những người vi phạm quy định về đăng ký nghĩa vụ quân sự.
 
-[LNVQS2015-D20-K6]
+[LUAT_NVQS/2015 | Điều 20 | Khoản 6]
 6. Cơ quan, tổ chức có trách nhiệm phối hợp với cơ quan quân sự cùng cấp thực hiện quy định về đăng ký nghĩa vụ quân sự và quản lý công dân trong độ tuổi thực hiện nghĩa vụ quân sự.
 
 # Chương III. PHỤC VỤ CỦA HẠ SĨ QUAN, BINH SĨ TẠI NGŨ VÀ HẠ SĨ QUAN, BINH SĨ DỰ BỊ
@@ -325,43 +325,43 @@ c) Phối hợp với cơ quan quân sự địa phương và cơ quan liên qua
 
 ## Điều 21. Thời hạn phục vụ tại ngũ của hạ sĩ quan, binh sĩ
 
-[LNVQS2015-D21-K1]
+[LUAT_NVQS/2015 | Điều 21 | Khoản 1]
 1. Thời hạn phục vụ tại ngũ trong thời bình của hạ sĩ quan, binh sĩ là 24 tháng.
 
-[LNVQS2015-D21-K2]
+[LUAT_NVQS/2015 | Điều 21 | Khoản 2]
 2. Bộ trưởng Bộ Quốc phòng được quyết định kéo dài thời hạn phục vụ tại ngũ của hạ sĩ quan, binh sĩ nhưng không quá 06 tháng trong trường hợp sau đây:
 
 a) Để bảo đảm nhiệm vụ sẵn sàng chiến đấu;
 
 b) Đang thực hiện nhiệm vụ phòng, chống thiên tai, dịch bệnh, cứu hộ, cứu nạn.
 
-[LNVQS2015-D21-K3]
+[LUAT_NVQS/2015 | Điều 21 | Khoản 3]
 3. Thời hạn phục vụ của hạ sĩ quan, binh sĩ trong tình trạng chiến tranh hoặc tình trạng khẩn cấp về quốc phòng được thực hiện theo lệnh tổng động viên hoặc động viên cục bộ.
 
 ## Điều 22. Cách tính thời gian phục vụ tại ngũ của hạ sĩ quan, binh sĩ
 
-[LNVQS2015-D22-K1]
+[LUAT_NVQS/2015 | Điều 22 | Khoản 1]
 1. Thời gian phục vụ tại ngũ của hạ sĩ quan, binh sĩ được tính từ ngày giao, nhận quân; trong trường hợp không giao, nhận quân tập trung thì tính từ ngày đơn vị Quân đội nhân dân tiếp nhận đến khi được cấp có thẩm quyền quyết định xuất ngũ.
 
-[LNVQS2015-D22-K2]
+[LUAT_NVQS/2015 | Điều 22 | Khoản 2]
 2. Thời gian đào ngũ, thời gian chấp hành hình phạt tù tại trại giam không được tính vào thời gian phục vụ tại ngũ.
 
 ## Điều 23. Phục vụ của hạ sĩ quan, binh sĩ có trình độ chuyên môn, kỹ thuật
 
-[LNVQS2015-D23-K1]
+[LUAT_NVQS/2015 | Điều 23 | Khoản 1]
 1. Hạ sĩ quan, binh sĩ có trình độ chuyên môn, kỹ thuật khi thực hiện nghĩa vụ quân sự được ưu tiên sử dụng vào vị trí công tác phù hợp với nhu cầu của quân đội theo quy định của Bộ trưởng Bộ Quốc phòng.
 
-[LNVQS2015-D23-K2]
+[LUAT_NVQS/2015 | Điều 23 | Khoản 2]
 2. Hạ sĩ quan, binh sĩ sau khi hết thời hạn phục vụ tại ngũ hoặc đang phục vụ trong ngạch dự bị có đủ tiêu chuẩn đáp ứng yêu cầu của quân đội, nếu tự nguyện và quân đội có nhu cầu thì được tuyển chọn chuyển sang phục vụ theo chế độ của sĩ quan, quân nhân chuyên nghiệp hoặc công nhân, viên chức quốc phòng theo quy định của pháp luật.
 
 # Mục 2: PHỤC VỤ CỦA HẠ SĨ QUAN, BINH SĨ DỰ BỊ
 
 ## Điều 24. Hạng của hạ sĩ quan, binh sĩ dự bị
 
-[LNVQS2015-D24-K1]
+[LUAT_NVQS/2015 | Điều 24 | Khoản 1]
 1. Hạ sĩ quan, binh sĩ dự bị được chia thành hạ sĩ quan, binh sĩ dự bị hạng một và binh sĩ dự bị hạng hai.
 
-[LNVQS2015-D24-K2]
+[LUAT_NVQS/2015 | Điều 24 | Khoản 2]
 2. Hạ sĩ quan, binh sĩ dự bị hạng một:
 
 a) Hạ sĩ quan, binh sĩ xuất ngũ đã phục vụ tại ngũ đủ 06 tháng trở lên;
@@ -380,7 +380,7 @@ g) Công dân là binh sĩ dự bị hạng hai đã qua huấn luyện tập tr
 
 h) Công dân hoàn thành nhiệm vụ tham gia Công an xã liên tục từ đủ 36 tháng trở lên.
 
-[LNVQS2015-D24-K3]
+[LUAT_NVQS/2015 | Điều 24 | Khoản 3]
 3. Binh sĩ dự bị hạng hai:
 
 a) Công dân nam là binh sĩ xuất ngũ, đã phục vụ tại ngũ dưới 06 tháng;
@@ -395,18 +395,18 @@ d) Công dân nam hết độ tuổi gọi nhập ngũ chưa phục vụ tại n
 
 ## Điều 25. Độ tuổi phục vụ của hạ sĩ quan, binh sĩ dự bị
 
-[LNVQS2015-D25]
+[LUAT_NVQS/2015 | Điều 25]
 Độ tuổi phục vụ trong ngạch dự bị của hạ sĩ quan, binh sĩ được quy định như sau:
 
-[LNVQS2015-D25-K1]
+[LUAT_NVQS/2015 | Điều 25 | Khoản 1]
 1. Công dân nam đến hết 45 tuổi;
 
-[LNVQS2015-D25-K2]
+[LUAT_NVQS/2015 | Điều 25 | Khoản 2]
 2. Công dân nữ đến hết 40 tuổi.
 
 ## Điều 26. Nhóm tuổi phục vụ của hạ sĩ quan, binh sĩ dự bị
 
-[LNVQS2015-D26-K1]
+[LUAT_NVQS/2015 | Điều 26 | Khoản 1]
 1. Tuổi phục vụ của hạ sĩ quan, binh sĩ dự bị được chia thành hai nhóm như sau:
 
 1. Nhóm A: Công dân nam đến hết 35 tuổi, công dân nữ đến hết 30 tuổi;
@@ -415,7 +415,7 @@ d) Công dân nam hết độ tuổi gọi nhập ngũ chưa phục vụ tại n
 
 ## Điều 27. Huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu đối với hạ sĩ quan, binh sĩ dự bị
 
-[LNVQS2015-D27-K1]
+[LUAT_NVQS/2015 | Điều 27 | Khoản 1]
 1. Đối với hạ sĩ quan, binh sĩ dự bị hạng một:
 
 a) Phải tham gia huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu trong đơn vị dự bị động viên với tổng thời gian không quá 12 tháng;
@@ -424,20 +424,20 @@ b) Thủ tướng Chính phủ quyết định số lượng hạ sĩ quan, binh
 
 c) Căn cứ quyết định của Thủ tướng Chính phủ, Bộ trưởng Bộ Quốc phòng quyết định phân bổ chỉ tiêu cho các đơn vị quân đội; quy định số lần và thời gian huấn luyện của mỗi lần; giữa các lần huấn luyện, được gọi hạ sĩ quan, binh sĩ dự bị tập trung để kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu trong thời gian không quá 07 ngày; trường hợp cần thiết được quyền giữ hạ sĩ quan, binh sĩ dự bị ở lại huấn luyện thêm không quá 02 tháng nhưng tổng số thời gian không vượt quá thời gian quy định tại điểm a khoản 1 Điều này.
 
-[LNVQS2015-D27-K2]
+[LUAT_NVQS/2015 | Điều 27 | Khoản 2]
 2. Việc huấn luyện đối với binh sĩ dự bị hạng hai do Chính phủ quy định.
 
 ## Điều 28. Kiểm tra sức khỏe đối với hạ sĩ quan, binh sĩ dự bị
 
-[LNVQS2015-D28-K1]
+[LUAT_NVQS/2015 | Điều 28 | Khoản 1]
 1. Hạ sĩ quan, binh sĩ dự bị đã biên chế vào đơn vị dự bị động viên trước khi tập trung huấn luyện, diễn tập được kiểm tra sức khỏe.
 
-[LNVQS2015-D28-K2]
+[LUAT_NVQS/2015 | Điều 28 | Khoản 2]
 2. Ủy ban nhân dân cấp huyện chỉ đạo phòng y tế phối hợp với cơ quan liên quan tổ chức kiểm tra sức khỏe đối với hạ sĩ quan, binh sĩ dự bị.
 
 ## Điều 29. Giải ngạch dự bị
 
-[LNVQS2015-D29]
+[LUAT_NVQS/2015 | Điều 29]
 Hạ sĩ quan, binh sĩ dự bị hết độ tuổi hoặc không còn đủ sức khỏe phục vụ trong ngạch dự bị thì được giải ngạch theo quyết định của Chỉ huy trưởng Ban Chỉ huy quân sự cấp huyện.
 
 # Chương IV. NHẬP NGŨ VÀ XUẤT NGŨ TRONG THỜI BÌNH
@@ -446,12 +446,12 @@ Hạ sĩ quan, binh sĩ dự bị hết độ tuổi hoặc không còn đủ s�
 
 ## Điều 30. Độ tuổi gọi nhập ngũ
 
-[LNVQS2015-D30]
+[LUAT_NVQS/2015 | Điều 30]
 Công dân đủ 18 tuổi được gọi nhập ngũ; độ tuổi gọi nhập ngũ từ đủ 18 tuổi đến hết 25 tuổi; công dân được đào tạo trình độ cao đẳng, đại học đã được tạm hoãn gọi nhập ngũ thì độ tuổi gọi nhập ngũ đến hết 27 tuổi.
 
 ## Điều 31. Tiêu chuẩn công dân được gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân
 
-[LNVQS2015-D31-K1]
+[LUAT_NVQS/2015 | Điều 31 | Khoản 1]
 1. Công dân được gọi nhập ngũ khi có đủ các tiêu chuẩn sau đây:
 
 a) Lý lịch rõ ràng;
@@ -462,62 +462,62 @@ c) Đủ sức khỏe phục vụ tại ngũ theo quy định;
 
 d) Có trình độ văn hóa phù hợp.
 
-[LNVQS2015-D31-K2]
+[LUAT_NVQS/2015 | Điều 31 | Khoản 2]
 2. Tiêu chuẩn công dân được gọi thực hiện nghĩa vụ tham gia Công an nhân dân theo quy định tại Điều 7 của Luật Công an nhân dân.
 
 ## Điều 32. Công nhận binh sĩ tại ngũ
 
-[LNVQS2015-D32]
+[LUAT_NVQS/2015 | Điều 32]
 Công dân đến 17 tuổi, có nguyện vọng phục vụ lâu dài trong Quân đội nhân dân, có đủ tiêu chuẩn theo quy định của pháp luật, đang học tập tại nhà trường quân đội thì được công nhận là binh sĩ tại ngũ.
 
 ## Điều 33. Số lần, thời điểm gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân trong năm
 
-[LNVQS2015-D33]
+[LUAT_NVQS/2015 | Điều 33]
 Hằng năm, gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân một lần vào tháng hai hoặc tháng ba; trường hợp cần thiết vì lý do quốc phòng, an ninh thì được gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân lần thứ hai. Đối với địa phương có thảm họa hoặc dịch bệnh nguy hiểm thì được điều chỉnh thời gian gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân.
 
 ## Điều 34. Thẩm quyền quyết định việc gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân
 
-[LNVQS2015-D34-K1]
+[LUAT_NVQS/2015 | Điều 34 | Khoản 1]
 1. Thủ tướng Chính phủ quyết định thời gian, số lượng gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân đối với tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh); quyết định gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân lần thứ hai; quyết định điều chỉnh số lượng, thời gian gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân đối với cấp tỉnh theo quy định tại Điều 33 của Luật này.
 
-[LNVQS2015-D34-K2]
+[LUAT_NVQS/2015 | Điều 34 | Khoản 2]
 2. Căn cứ vào quyết định của Thủ tướng Chính phủ, Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quyết định số lượng gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân cho đơn vị thuộc quyền ở từng địa phương cấp tỉnh.
 
-[LNVQS2015-D34-K3]
+[LUAT_NVQS/2015 | Điều 34 | Khoản 3]
 3. Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định giao số lượng gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân cho địa phương cấp huyện.
 
-[LNVQS2015-D34-K4]
+[LUAT_NVQS/2015 | Điều 34 | Khoản 4]
 4. Chỉ huy trưởng cơ quan quân sự cấp tỉnh, cấp huyện, Giám đốc Công an cấp tỉnh, Trưởng Công an cấp huyện có trách nhiệm tham mưu cho Chủ tịch Ủy ban nhân dân cùng cấp trong việc giao số lượng gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân cho địa phương cấp huyện, cấp xã và cơ quan, tổ chức trên địa bàn; chỉ đạo tuyển chọn công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân.
 
-[LNVQS2015-D34-K5]
+[LUAT_NVQS/2015 | Điều 34 | Khoản 5]
 5. Chủ tịch Ủy ban nhân dân cấp huyện quyết định giao số lượng gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân cho địa phương cấp xã và cơ quan, tổ chức trên địa bàn; quyết định danh sách công dân gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân theo đề nghị của Hội đồng nghĩa vụ quân sự cùng cấp.
 
-[LNVQS2015-D34-K6]
+[LUAT_NVQS/2015 | Điều 34 | Khoản 6]
 6. Chỉ huy trưởng Ban Chỉ huy quân sự cấp huyện ra lệnh gọi từng công dân nhập ngũ; Trưởng Công an cấp huyện ra lệnh gọi từng công dân thực hiện nghĩa vụ tham gia Công an nhân dân. Lệnh gọi nhập ngũ, gọi thực hiện nghĩa vụ tham gia Công an nhân dân phải được giao cho công dân trước thời gian ghi trong lệnh 15 ngày.
 
 ## Điều 35. Trách nhiệm của cơ quan, tổ chức, cá nhân trong tuyển chọn, gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân
 
-[LNVQS2015-D35-K1]
+[LUAT_NVQS/2015 | Điều 35 | Khoản 1]
 1. Ủy ban nhân dân các cấp, cơ quan, tổ chức có trách nhiệm thực hiện tuyển chọn, gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân bảo đảm dân chủ, công bằng, công khai, đủ số lượng, đúng đối tượng, tiêu chuẩn, thời gian theo quy định của pháp luật; bảo đảm cho công dân được gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân có mặt đúng thời gian, địa điểm.
 
-[LNVQS2015-D35-K2]
+[LUAT_NVQS/2015 | Điều 35 | Khoản 2]
 2. Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức giao công dân được gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân cho các đơn vị nhận quân và tổ chức lễ giao nhận quân theo đúng quy định.
 
-[LNVQS2015-D35-K3]
+[LUAT_NVQS/2015 | Điều 35 | Khoản 3]
 3. Ủy ban nhân dân cấp xã, cơ quan, tổ chức có trách nhiệm công khai số lượng, đối tượng, tiêu chuẩn gọi nhập ngũ; danh sách công dân đủ điều kiện nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân; danh sách công dân được gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân; danh sách tạm hoãn gọi nhập ngũ, miễn gọi nhập ngũ tại trụ sở Ủy ban nhân dân cấp xã, cơ quan, tổ chức.
 
-[LNVQS2015-D35-K4]
+[LUAT_NVQS/2015 | Điều 35 | Khoản 4]
 4. Đơn vị nhận quân có trách nhiệm phối hợp với Ủy ban nhân dân các cấp thực hiện việc tuyển chọn, gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân.
 
-[LNVQS2015-D35-K5]
+[LUAT_NVQS/2015 | Điều 35 | Khoản 5]
 5. Công dân được gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân phải có mặt đúng thời gian và địa điểm ghi trong lệnh; trường hợp có lý do chính đáng mà không thể đến đúng thời gian, địa điểm thì phải có xác nhận của Ủy ban nhân dân cấp xã nơi cư trú hoặc cơ quan, tổ chức nơi làm việc, học tập và báo cáo Chỉ huy trưởng Ban Chỉ huy quân sự, Trưởng Công an cấp huyện.
 
 ## Điều 36. Hội đồng nghĩa vụ quân sự
 
-[LNVQS2015-D36-K1]
+[LUAT_NVQS/2015 | Điều 36 | Khoản 1]
 1. Ủy ban nhân dân các cấp thành lập Hội đồng nghĩa vụ quân sự để giúp Ủy ban nhân dân cùng cấp thực hiện pháp luật về nghĩa vụ quân sự.
 
-[LNVQS2015-D36-K2]
+[LUAT_NVQS/2015 | Điều 36 | Khoản 2]
 2. Thành phần của Hội đồng nghĩa vụ quân sự các cấp:
 
 a) Hội đồng nghĩa vụ quân sự cấp tỉnh, cấp huyện gồm:
@@ -540,73 +540,73 @@ Phó Chủ tịch Hội đồng nghĩa vụ quân sự là Trưởng Công an;
 
 Các ủy viên Hội đồng nghĩa vụ quân sự là người đứng đầu Ủy ban Mặt trận Tổ quốc Việt Nam, Đoàn thanh niên cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ Việt Nam, Hội cựu chiến binh Việt Nam, Y tế; công chức tư pháp - hộ tịch, tài chính - kế toán và một số thành viên khác do Chủ tịch Ủy ban nhân dân quyết định.
 
-[LNVQS2015-D36-K3]
+[LUAT_NVQS/2015 | Điều 36 | Khoản 3]
 3. Hội đồng nghĩa vụ quân sự làm việc theo nguyên tắc tập thể; chịu trách nhiệm trước Ủy ban nhân dân cùng cấp về việc thực hiện nghĩa vụ quân sự tại địa phương; nghị quyết của Hội đồng phải được quá nửa tổng số thành viên biểu quyết tán thành.
 
 ## Điều 37. Nhiệm vụ của Hội đồng nghĩa vụ quân sự cấp tỉnh
 
-[LNVQS2015-D37-K1]
+[LUAT_NVQS/2015 | Điều 37 | Khoản 1]
 1. Giúp Ủy ban nhân dân cấp tỉnh chỉ đạo kiểm tra, đôn đốc cơ quan, tổ chức thực hiện việc đăng ký nghĩa vụ quân sự và quản lý công dân trong độ tuổi thực hiện nghĩa vụ quân sự; chuẩn bị cho công dân phục vụ tại ngũ, kế hoạch tuyển chọn gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân; huấn luyện hạ sĩ quan, binh sĩ dự bị và thực hiện các chế độ, chính sách đối với hạ sĩ quan, binh sĩ trên địa bàn; chỉ đạo, hướng dẫn hoạt động của Hội đồng nghĩa vụ quân sự cấp huyện.
 
-[LNVQS2015-D37-K2]
+[LUAT_NVQS/2015 | Điều 37 | Khoản 2]
 2. Giúp Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét và giải quyết khiếu nại, tố cáo của công dân trong việc thực hiện pháp luật về nghĩa vụ quân sự.
 
 ## Điều 38. Nhiệm vụ của Hội đồng nghĩa vụ quân sự cấp huyện
 
-[LNVQS2015-D38-K1]
+[LUAT_NVQS/2015 | Điều 38 | Khoản 1]
 1. Giúp Ủy ban nhân dân cấp huyện thực hiện nhiệm vụ tuyển chọn công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân; chỉ đạo Ủy ban nhân dân cấp xã tổ chức thực hiện quy định của pháp luật về nghĩa vụ quân sự và chỉ đạo, hướng dẫn hoạt động của Hội đồng nghĩa vụ quân sự cấp xã.
 
-[LNVQS2015-D38-K2]
+[LUAT_NVQS/2015 | Điều 38 | Khoản 2]
 2. Báo cáo Ủy ban nhân dân cấp huyện quyết định công dân được gọi nhập ngũ, tạm hoãn gọi nhập ngũ và miễn gọi nhập ngũ, miễn thực hiện nghĩa vụ quân sự và thực hiện nghĩa vụ tham gia Công an nhân dân.
 
-[LNVQS2015-D38-K3]
+[LUAT_NVQS/2015 | Điều 38 | Khoản 3]
 3. Giúp Ủy ban nhân dân cấp huyện tổ chức bàn giao công dân được gọi nhập ngũ, thực hiện nghĩa vụ tham gia Công an nhân dân cho các đơn vị quân đội, cảnh sát biển và công an; tổ chức tiếp nhận hạ sĩ quan, binh sĩ xuất ngũ.
 
-[LNVQS2015-D38-K4]
+[LUAT_NVQS/2015 | Điều 38 | Khoản 4]
 4. Giúp Ủy ban nhân dân cấp huyện kiểm tra, hướng dẫn cơ quan, tổ chức liên quan trong việc thực hiện chính sách hậu phương quân đội và quản lý công dân trong diện thực hiện nghĩa vụ quân sự ở địa phương.
 
-[LNVQS2015-D38-K5]
+[LUAT_NVQS/2015 | Điều 38 | Khoản 5]
 5. Giúp Chủ tịch Ủy ban nhân dân cấp huyện xem xét, giải quyết khiếu nại, tố cáo trong việc thực hiện pháp luật về nghĩa vụ quân sự.
 
 ## Điều 39. Nhiệm vụ của Hội đồng nghĩa vụ quân sự cấp xã
 
-[LNVQS2015-D39-K1]
+[LUAT_NVQS/2015 | Điều 39 | Khoản 1]
 1. Giúp Ủy ban nhân dân cấp xã tổ chức tuyên truyền, phổ biến pháp luật về nghĩa vụ quân sự; tổ chức cho công dân đăng ký nghĩa vụ quân sự và khám sức khỏe.
 
-[LNVQS2015-D39-K2]
+[LUAT_NVQS/2015 | Điều 39 | Khoản 2]
 2. Báo cáo Ủy ban nhân dân cấp xã và Hội đồng nghĩa vụ quân sự cấp huyện danh sách công dân được gọi nhập ngũ, tạm hoãn gọi nhập ngũ, miễn gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân.
 
-[LNVQS2015-D39-K3]
+[LUAT_NVQS/2015 | Điều 39 | Khoản 3]
 3. Tổ chức cho công dân thực hiện lệnh gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân; lệnh gọi tập trung huấn luyện, diễn tập, lệnh kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu.
 
-[LNVQS2015-D39-K4]
+[LUAT_NVQS/2015 | Điều 39 | Khoản 4]
 4. Giúp Ủy ban nhân dân cấp xã kiểm tra, hướng dẫn cơ quan, tổ chức liên quan trong việc thực hiện chính sách hậu phương quân đội và quản lý công dân trong diện thực hiện nghĩa vụ quân sự ở địa phương.
 
-[LNVQS2015-D39-K5]
+[LUAT_NVQS/2015 | Điều 39 | Khoản 5]
 5. Giúp Chủ tịch Ủy ban nhân dân cấp xã xem xét, giải quyết khiếu nại, tố cáo trong việc thực hiện pháp luật về nghĩa vụ quân sự.
 
 ## Điều 40. Khám sức khỏe cho công dân gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân
 
-[LNVQS2015-D40-K1]
+[LUAT_NVQS/2015 | Điều 40 | Khoản 1]
 1. Chủ tịch Ủy ban nhân dân cấp huyện quyết định thành lập Hội đồng khám sức khỏe theo đề nghị của phòng y tế cùng cấp.
 
-[LNVQS2015-D40-K2]
+[LUAT_NVQS/2015 | Điều 40 | Khoản 2]
 2. Chỉ huy trưởng Ban Chỉ huy quân sự cấp huyện ra lệnh gọi khám sức khỏe cho công dân trong diện gọi nhập ngũ; Trưởng Công an cấp huyện ra lệnh gọi khám sức khỏe cho công dân trong diện gọi thực hiện nghĩa vụ tham gia Công an nhân dân. Lệnh gọi khám sức khỏe phải được giao cho công dân trước thời điểm khám sức khỏe 15 ngày.
 
-[LNVQS2015-D40-K3]
+[LUAT_NVQS/2015 | Điều 40 | Khoản 3]
 3. Hội đồng khám sức khỏe cấp huyện tổ chức khám sức khỏe cho công dân trong diện gọi nhập ngũ và gọi thực hiện nghĩa vụ tham gia Công an nhân dân; trường hợp cần thiết, quyết định việc xét nghiệm cận lâm sàng, bao gồm xét nghiệm phát hiện ma túy, HIV; bảo đảm chính xác và chịu trách nhiệm về kết quả khám sức khỏe nghĩa vụ quân sự.
 
-[LNVQS2015-D40-K4]
+[LUAT_NVQS/2015 | Điều 40 | Khoản 4]
 4. Thời gian khám sức khỏe từ ngày 01 tháng 11 đến hết ngày 31 tháng 12 hằng năm. Thời gian khám sức khỏe gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân lần thứ hai theo quy định tại Điều 33 của Luật này do Thủ tướng Chính phủ quyết định.
 
-[LNVQS2015-D40-K5]
+[LUAT_NVQS/2015 | Điều 40 | Khoản 5]
 5. Kết quả phân loại sức khỏe phải được niêm yết công khai tại trụ sở Ủy ban nhân dân cấp xã, cơ quan, tổ chức trong thời hạn 20 ngày.
 
 # Mục 2: TẠM HOÃN GỌI NHẬP NGŨ VÀ MIỄN GỌI NHẬP NGŨ
 
 ## Điều 41. Tạm hoãn gọi nhập ngũ và miễn gọi nhập ngũ
 
-[LNVQS2015-D41-K1]
+[LUAT_NVQS/2015 | Điều 41 | Khoản 1]
 1. Tạm hoãn gọi nhập ngũ đối với những công dân sau đây:
 
 a) Chưa đủ sức khỏe phục vụ tại ngũ theo kết luận của Hội đồng khám sức khỏe;
@@ -623,7 +623,7 @@ e) Cán bộ, công chức, viên chức, thanh niên xung phong được điề
 
 g) Đang học tại cơ sở giáo dục phổ thông; đang được đào tạo trình độ đại học hệ chính quy thuộc cơ sở giáo dục đại học, trình độ cao đẳng hệ chính quy thuộc cơ sở giáo dục nghề nghiệp trong thời gian một khóa đào tạo của một trình độ đào tạo.
 
-[LNVQS2015-D41-K2]
+[LUAT_NVQS/2015 | Điều 41 | Khoản 2]
 2. Miễn gọi nhập ngũ đối với những công dân sau đây:
 
 a) Con của liệt sĩ, con của thương binh hạng một;
@@ -636,96 +636,96 @@ d) Người làm công tác cơ yếu không phải là quân nhân, Công an nh
 
 đ) Cán bộ, công chức, viên chức, thanh niên xung phong được điều động đến công tác, làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật từ 24 tháng trở lên.
 
-[LNVQS2015-D41-K3]
+[LUAT_NVQS/2015 | Điều 41 | Khoản 3]
 3. Công dân thuộc diện tạm hoãn gọi nhập ngũ quy định tại khoản 1 Điều này, nếu không còn lý do tạm hoãn thì được gọi nhập ngũ.
 
 Công dân thuộc diện được tạm hoãn gọi nhập ngũ hoặc được miễn gọi nhập ngũ quy định tại khoản 1 và khoản 2 Điều này, nếu tình nguyện thì được xem xét tuyển chọn và gọi nhập ngũ.
 
-[LNVQS2015-D41-K4]
+[LUAT_NVQS/2015 | Điều 41 | Khoản 4]
 4. Danh sách công dân thuộc diện được tạm hoãn gọi nhập ngũ, được miễn gọi nhập ngũ phải được niêm yết công khai tại trụ sở Ủy ban nhân dân cấp xã, cơ quan, tổ chức trong thời hạn 20 ngày.
 
 ## Điều 42. Thẩm quyền quyết định tạm hoãn gọi nhập ngũ, miễn gọi nhập ngũ và công nhận hoàn thành nghĩa vụ quân sự tại ngũ
 
-[LNVQS2015-D42-K1]
+[LUAT_NVQS/2015 | Điều 42 | Khoản 1]
 1. Chủ tịch Ủy ban nhân dân cấp huyện quyết định tạm hoãn gọi nhập ngũ và miễn gọi nhập ngũ đối với công dân quy định tại Điều 41 của Luật này.
 
-[LNVQS2015-D42-K2]
+[LUAT_NVQS/2015 | Điều 42 | Khoản 2]
 2. Chỉ huy trưởng Ban chỉ huy quân sự cấp huyện quyết định công nhận hoàn thành nghĩa vụ quân sự tại ngũ đối với công dân quy định tại khoản 4 Điều 4 của Luật này.
 
 # Mục 3: XUẤT NGŨ
 
 ## Điều 43. Điều kiện xuất ngũ
 
-[LNVQS2015-D43-K1]
+[LUAT_NVQS/2015 | Điều 43 | Khoản 1]
 1. Hạ sĩ quan, binh sĩ đã hết thời hạn phục vụ tại ngũ quy định tại khoản 1 và khoản 2 Điều 21 của Luật này thì được xuất ngũ.
 
-[LNVQS2015-D43-K2]
+[LUAT_NVQS/2015 | Điều 43 | Khoản 2]
 2. Hạ sĩ quan, binh sĩ tại ngũ có thể được xuất ngũ trước thời hạn khi được Hội đồng giám định y khoa quân sự kết luận không đủ sức khỏe để tiếp tục phục vụ tại ngũ hoặc các trường hợp quy định tại điểm b và điểm c khoản 1; các điểm a, b và c khoản 2 Điều 41 của Luật này.
 
 ## Điều 44. Thẩm quyền, trách nhiệm giải quyết xuất ngũ
 
-[LNVQS2015-D44-K1]
+[LUAT_NVQS/2015 | Điều 44 | Khoản 1]
 1. Bộ trưởng Bộ Quốc phòng quyết định xuất ngũ hằng năm đối với hạ sĩ quan, binh sĩ phục vụ tại ngũ.
 
-[LNVQS2015-D44-K2]
+[LUAT_NVQS/2015 | Điều 44 | Khoản 2]
 2. Chỉ huy đơn vị từ cấp trung đoàn và tương đương trở lên quyết định xuất ngũ đối với từng hạ sĩ quan, binh sĩ thuộc quyền; tổ chức lễ tiễn hạ sĩ quan, binh sĩ hoàn thành nghĩa vụ phục vụ tại ngũ và bàn giao cho Ủy ban nhân dân cấp huyện đã giao quân.
 
-[LNVQS2015-D44-K3]
+[LUAT_NVQS/2015 | Điều 44 | Khoản 3]
 3. Thời gian xuất ngũ phải được thông báo trước 30 ngày cho hạ sĩ quan, binh sĩ và Ủy ban nhân dân cấp huyện nơi giao quân hoặc cơ quan, tổ chức nơi làm việc, học tập trước khi nhập ngũ.
 
-[LNVQS2015-D44-K4]
+[LUAT_NVQS/2015 | Điều 44 | Khoản 4]
 4. Ủy ban nhân dân cấp huyện, cấp xã và cơ quan, tổ chức phải tổ chức tiếp nhận hạ sĩ quan, binh sĩ xuất ngũ.
 
 ## Điều 45. Trách nhiệm của hạ sĩ quan, binh sĩ xuất ngũ
 
-[LNVQS2015-D45]
+[LUAT_NVQS/2015 | Điều 45]
 Hạ sĩ quan, binh sĩ xuất ngũ; hạ sĩ quan, chiến sĩ hoàn thành thực hiện nghĩa vụ tham gia Công an nhân dân khi về nơi cư trú hoặc nơi làm việc, học tập trong thời hạn 15 ngày làm việc phải đến cơ quan đăng ký nghĩa vụ quân sự để đăng ký phục vụ trong ngạch dự bị.
 
 # Chương V. NHẬP NGŨ THEO LỆNH ĐỘNG VIÊN, XUẤT NGŨ KHI BÃI BỎ TÌNH TRẠNG CHIẾN TRANH HOẶC TÌNH TRẠNG KHẨN CẤP VỀ QUỐC PHÒNG
 
 ## Điều 46. Gọi nhập ngũ khi có lệnh động viên
 
-[LNVQS2015-D46]
+[LUAT_NVQS/2015 | Điều 46]
 Khi có lệnh tổng động viên hoặc động viên cục bộ, việc gọi nhập ngũ thực hiện theo quyết định của Thủ tướng Chính phủ và lệnh của Bộ trưởng Bộ Quốc phòng.
 
 ## Điều 47. Trách nhiệm của cơ quan, tổ chức, cá nhân trong thực hiện lệnh động viên
 
-[LNVQS2015-D47-K1]
+[LUAT_NVQS/2015 | Điều 47 | Khoản 1]
 1. Khi có lệnh tổng động viên hoặc động viên cục bộ, Bộ trưởng Bộ Quốc phòng lệnh đình chỉ việc xuất ngũ, nghỉ phép đối với hạ sĩ quan, binh sĩ; hạ sĩ quan, binh sĩ đang nghỉ phép phải trở về đơn vị.
 
-[LNVQS2015-D47-K2]
+[LUAT_NVQS/2015 | Điều 47 | Khoản 2]
 2. Chỉ huy trưởng Ban Chỉ huy quân sự cấp huyện ra lệnh gọi từng công dân nhập ngũ theo quyết định của Chủ tịch Ủy ban nhân dân cùng cấp.
 
-[LNVQS2015-D47-K3]
+[LUAT_NVQS/2015 | Điều 47 | Khoản 3]
 3. Công dân được gọi nhập ngũ phải có mặt đúng thời gian và địa điểm ghi trong lệnh gọi nhập ngũ.
 
-[LNVQS2015-D47-K4]
+[LUAT_NVQS/2015 | Điều 47 | Khoản 4]
 4. Ủy ban nhân dân cấp xã, cơ quan, tổ chức có trách nhiệm tổ chức để công dân chấp hành nghiêm lệnh gọi nhập ngũ.
 
 ## Điều 48. Xuất ngũ khi có lệnh bãi bỏ tình trạng chiến tranh hoặc tình trạng khẩn cấp về quốc phòng
 
-[LNVQS2015-D48-K1]
+[LUAT_NVQS/2015 | Điều 48 | Khoản 1]
 1. Khi có lệnh bãi bỏ lệnh tổng động viên hoặc động viên cục bộ, Thủ tướng Chính phủ quyết định việc xuất ngũ đối với hạ sĩ quan, binh sĩ.
 
-[LNVQS2015-D48-K2]
+[LUAT_NVQS/2015 | Điều 48 | Khoản 2]
 2. Thẩm quyền, trách nhiệm giải quyết cụ thể việc xuất ngũ đối với hạ sĩ quan, binh sĩ được thực hiện theo quy định tại Điều 44 của Luật này.
 
 # Chương VI. CHẾ ĐỘ, CHÍNH SÁCH VÀ NGÂN SÁCH BẢO ĐẢM TRONG VIỆC THỰC HIỆN NGHĨA VỤ QUÂN SỰ
 
 ## Điều 49. Chế độ chính sách của công dân trong thời gian đăng ký nghĩa vụ quân sự, khám, kiểm tra sức khỏe
 
-[LNVQS2015-D49-K1]
+[LUAT_NVQS/2015 | Điều 49 | Khoản 1]
 1. Công dân đang làm việc tại cơ quan, tổ chức trong thời gian thực hiện đăng ký nghĩa vụ quân sự, khám, kiểm tra sức khỏe nghĩa vụ quân sự thì được trả nguyên lương, tiền tàu xe và các khoản phụ cấp hiện hưởng.
 
-[LNVQS2015-D49-K2]
+[LUAT_NVQS/2015 | Điều 49 | Khoản 2]
 2. Công dân đến đăng ký nghĩa vụ quân sự, khám, kiểm tra sức khỏe được bảo đảm chế độ ăn, ở trong thời gian thực hiện đăng ký, khám, kiểm tra sức khỏe, tiền tàu xe đi, về.
 
-[LNVQS2015-D49-K3]
+[LUAT_NVQS/2015 | Điều 49 | Khoản 3]
 3. Chính phủ quy định chi tiết Điều này.
 
 ## Điều 50. Chế độ, chính sách đối với hạ sĩ quan, binh sĩ phục vụ tại ngũ, xuất ngũ và thân nhân
 
-[LNVQS2015-D50-K1]
+[LUAT_NVQS/2015 | Điều 50 | Khoản 1]
 1. Đối với hạ sĩ quan, binh sĩ trong thời gian phục vụ tại ngũ:
 
 a) Được bảo đảm cung cấp kịp thời, đủ số lượng, đúng chất lượng về lương thực, thực phẩm, quân trang, thuốc phòng bệnh, chữa bệnh; được bảo đảm chỗ ở, phụ cấp hàng tháng, nhu yếu phẩm và nhu cầu về văn hóa, tinh thần phù hợp với tính chất nhiệm vụ của quân đội; được bảo đảm chế độ trong các ngày lễ, tết; được bảo đảm chăm sóc sức khỏe khi bị thương, bị ốm đau, bị tai nạn theo quy định của pháp luật;
@@ -750,7 +750,7 @@ k) Được tạm hoãn trả và không tính lãi suất khoản vay từ Ngâ
 
 l) Được ưu tiên trong tuyển sinh quân sự.
 
-[LNVQS2015-D50-K2]
+[LUAT_NVQS/2015 | Điều 50 | Khoản 2]
 2. Đối với thân nhân hạ sĩ quan, binh sĩ tại ngũ:
 
 a) Bố, mẹ đẻ; bố, mẹ vợ hoặc bố, mẹ chồng; người nuôi dưỡng hợp pháp; vợ hoặc chồng; con đẻ, con nuôi hợp pháp của hạ sĩ quan, binh sĩ tại ngũ được hưởng chế độ bảo hiểm y tế theo quy định của Luật bảo hiểm y tế, được hưởng trợ cấp khó khăn do ngân sách nhà nước bảo đảm;
@@ -759,7 +759,7 @@ b) Con đẻ, con nuôi hợp pháp của hạ sĩ quan, binh sĩ tại ngũ đ�
 
 c) Trường hợp hạ sĩ quan, binh sĩ tại ngũ hy sinh, từ trần trong khi làm nhiệm vụ thì gia đình được hưởng chế độ ưu đãi theo quy định của pháp luật.
 
-[LNVQS2015-D50-K3]
+[LUAT_NVQS/2015 | Điều 50 | Khoản 3]
 3. Đối với hạ sĩ quan, binh sĩ khi xuất ngũ:
 
 a) Được cấp tiền tàu xe, phụ cấp đi đường, trợ cấp xuất ngũ;
@@ -776,117 +776,117 @@ e) Được giải quyết quyền lợi về bảo hiểm xã hội theo quy đ
 
 g) Đối với hạ sĩ quan, binh sĩ xuất ngũ theo quy định tại khoản 1 Điều 43 và khoản 1 Điều 48 của Luật này, khi về địa phương được chính quyền các cấp, cơ quan, tổ chức ưu tiên sắp xếp việc làm và cộng điểm trong tuyển sinh, tuyển dụng công chức, viên chức; trong thời gian tập sự được hưởng 100% mức lương và phụ cấp của ngạch tuyển dụng tương ứng với trình độ đào tạo.
 
-[LNVQS2015-D50-K4]
+[LUAT_NVQS/2015 | Điều 50 | Khoản 4]
 4. Chính phủ quy định chi tiết Điều này.
 
 ## Điều 51. Chế độ, chính sách đối với hạ sĩ quan, binh sĩ dự bị
 
-[LNVQS2015-D51]
+[LUAT_NVQS/2015 | Điều 51]
 Hạ sĩ quan, binh sĩ dự bị trong thời gian tập trung huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu thì bản thân và gia đình được hưởng chế độ chính sách theo quy định của Chính phủ.
 
 Trường hợp bị thương, bị bệnh hoặc từ trần trong khi làm nhiệm vụ thì bản thân và gia đình được hưởng chế độ ưu đãi theo quy định của pháp luật.
 
 ## Điều 52. Trách nhiệm của cơ quan, tổ chức trong thực hiện chế độ, chính sách đối với gia đình hạ sĩ quan, binh sĩ
 
-[LNVQS2015-D52]
+[LUAT_NVQS/2015 | Điều 52]
 Ủy ban nhân dân các cấp, cơ quan, tổ chức trong phạm vi chức năng, quyền hạn có trách nhiệm thực hiện chế độ, chính sách đối với gia đình hạ sĩ quan, binh sĩ tại ngũ và hạ sĩ quan, binh sĩ dự bị.
 
 ## Điều 53. Ngân sách bảo đảm cho việc thực hiện nghĩa vụ quân sự
 
-[LNVQS2015-D53-K1]
+[LUAT_NVQS/2015 | Điều 53 | Khoản 1]
 1. Ngân sách trung ương bảo đảm kinh phí cho việc thực hiện nghĩa vụ quân sự của bộ, cơ quan trung ương.
 
-[LNVQS2015-D53-K2]
+[LUAT_NVQS/2015 | Điều 53 | Khoản 2]
 2. Ngân sách địa phương bảo đảm kinh phí cho việc thực hiện nghĩa vụ quân sự của cơ quan, tổ chức, đơn vị của địa phương.
 
-[LNVQS2015-D53-K3]
+[LUAT_NVQS/2015 | Điều 53 | Khoản 3]
 3. Kinh phí cho việc thực hiện nghĩa vụ quân sự của doanh nghiệp, tổ chức khác do doanh nghiệp, tổ chức đó tự bảo đảm.
 
-[LNVQS2015-D53-K4]
+[LUAT_NVQS/2015 | Điều 53 | Khoản 4]
 4. Chính phủ quy định chi tiết Điều này.
 
 # Chương VII. NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN, TỔ CHỨC
 
 ## Điều 54. Cơ quan quản lý nhà nước về nghĩa vụ quân sự
 
-[LNVQS2015-D54-K1]
+[LUAT_NVQS/2015 | Điều 54 | Khoản 1]
 1. Chính phủ thống nhất quản lý nhà nước về nghĩa vụ quân sự trong phạm vi cả nước.
 
-[LNVQS2015-D54-K2]
+[LUAT_NVQS/2015 | Điều 54 | Khoản 2]
 2. Bộ Quốc phòng chịu trách nhiệm giúp Chính phủ thực hiện quản lý nhà nước về nghĩa vụ quân sự.
 
-[LNVQS2015-D54-K3]
+[LUAT_NVQS/2015 | Điều 54 | Khoản 3]
 3. Các bộ, cơ quan ngang bộ phối hợp với Bộ Quốc phòng thực hiện quản lý nhà nước về nghĩa vụ quân sự theo thẩm quyền.
 
 ## Điều 55. Nhiệm vụ, quyền hạn của Bộ Quốc phòng
 
-[LNVQS2015-D55-K1]
+[LUAT_NVQS/2015 | Điều 55 | Khoản 1]
 1. Ban hành hoặc trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật về nghĩa vụ quân sự.
 
-[LNVQS2015-D55-K2]
+[LUAT_NVQS/2015 | Điều 55 | Khoản 2]
 2. Tổ chức thực hiện các văn bản quy phạm pháp luật về thực hiện nghĩa vụ quân sự.
 
-[LNVQS2015-D55-K3]
+[LUAT_NVQS/2015 | Điều 55 | Khoản 3]
 3. Phối hợp tuyên truyền, phổ biến, giáo dục pháp luật về nghĩa vụ quân sự.
 
-[LNVQS2015-D55-K4]
+[LUAT_NVQS/2015 | Điều 55 | Khoản 4]
 4. Kiểm tra, thanh tra, khen thưởng, xử lý vi phạm; giải quyết khiếu nại, tố cáo về nghĩa vụ quân sự theo quy định của pháp luật.
 
-[LNVQS2015-D55-K5]
+[LUAT_NVQS/2015 | Điều 55 | Khoản 5]
 5. Tổng kết công tác thi hành pháp luật về nghĩa vụ quân sự.
 
 ## Điều 56. Nhiệm vụ, quyền hạn của các bộ, cơ quan ngang bộ
 
-[LNVQS2015-D56-K1]
+[LUAT_NVQS/2015 | Điều 56 | Khoản 1]
 1. Bộ Công an chỉ đạo Công an các địa phương phối hợp với cơ quan quân sự cùng cấp tổ chức thực hiện pháp luật về nghĩa vụ quân sự.
 
-[LNVQS2015-D56-K2]
+[LUAT_NVQS/2015 | Điều 56 | Khoản 2]
 2. Bộ Y tế chỉ đạo cơ quan y tế địa phương phối hợp với cơ quan quân sự cùng cấp tổ chức khám sức khỏe nghĩa vụ quân sự; chủ trì phối hợp với Bộ Quốc phòng để quy định về tiêu chuẩn sức khỏe thực hiện nghĩa vụ quân sự.
 
-[LNVQS2015-D56-K3]
+[LUAT_NVQS/2015 | Điều 56 | Khoản 3]
 3. Bộ Giáo dục và Đào tạo chủ trì phối hợp với Bộ Quốc phòng để chỉ đạo, hướng dẫn các cơ sở giáo dục thực hiện pháp luật về nghĩa vụ quân sự và thực hiện đào tạo cán bộ, nhân viên chuyên môn kỹ thuật cho quân đội theo quyết định của Thủ tướng Chính phủ.
 
-[LNVQS2015-D56-K4]
+[LUAT_NVQS/2015 | Điều 56 | Khoản 4]
 4. Bộ Lao động - Thương binh và Xã hội tổ chức thực hiện chính sách hậu phương quân đội đối với gia đình hạ sĩ quan, binh sĩ; chính sách dạy nghề, việc làm đối với hạ sĩ quan, binh sĩ xuất ngũ; chỉ đạo, hướng dẫn cơ sở giáo dục nghề nghiệp thuộc quyền quản lý thực hiện đào tạo cán bộ, nhân viên chuyên môn kỹ thuật cho quân đội theo quyết định của Thủ tướng Chính phủ.
 
-[LNVQS2015-D56-K5]
+[LUAT_NVQS/2015 | Điều 56 | Khoản 5]
 5. Bộ Thông tin và Truyền thông chỉ đạo các cơ quan thông tin đại chúng tổ chức tuyên truyền, phổ biến, giáo dục pháp luật về nghĩa vụ quân sự theo quy định của pháp luật.
 
-[LNVQS2015-D56-K6]
+[LUAT_NVQS/2015 | Điều 56 | Khoản 6]
 6. Bộ, cơ quan ngang bộ và cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn có trách nhiệm phối hợp với Bộ Quốc phòng thực hiện quy định của pháp luật về nghĩa vụ quân sự.
 
 ## Điều 57. Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận
 
-[LNVQS2015-D57]
+[LUAT_NVQS/2015 | Điều 57]
 Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận trong phạm vi nhiệm vụ, quyền hạn có trách nhiệm giám sát việc thực hiện pháp luật về nghĩa vụ quân sự của cơ quan, tổ chức, cá nhân.
 
 ## Điều 58. Nhiệm vụ, quyền hạn của Ủy ban nhân dân các cấp
 
-[LNVQS2015-D58-K1]
+[LUAT_NVQS/2015 | Điều 58 | Khoản 1]
 1. Chỉ đạo và tổ chức thực hiện pháp luật về nghĩa vụ quân sự tại địa phương.
 
-[LNVQS2015-D58-K2]
+[LUAT_NVQS/2015 | Điều 58 | Khoản 2]
 2. Tổ chức việc đăng ký, quản lý công dân trong độ tuổi thực hiện nghĩa vụ quân sự.
 
-[LNVQS2015-D58-K3]
+[LUAT_NVQS/2015 | Điều 58 | Khoản 3]
 3. Chịu trách nhiệm về số lượng, chất lượng công dân nhập ngũ, thực hiện nghĩa vụ tham gia Công an nhân dân và công dân phục vụ trong ngạch dự bị của Quân đội nhân dân.
 
-[LNVQS2015-D58-K4]
+[LUAT_NVQS/2015 | Điều 58 | Khoản 4]
 4. Trong phạm vi nhiệm vụ, quyền hạn của mình, kiểm tra cơ quan, tổ chức, cá nhân thực hiện pháp luật về nghĩa vụ quân sự tại địa phương.
 
 # Chương VIII. XỬ LÝ VI PHẠM
 
 ## Điều 59. Xử lý vi phạm
 
-[LNVQS2015-D59-K1]
+[LUAT_NVQS/2015 | Điều 59 | Khoản 1]
 1. Tổ chức, cá nhân có hành vi trốn tránh, chống đối, cản trở việc thực hiện nghĩa vụ quân sự thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự.
 
-[LNVQS2015-D59-K2]
+[LUAT_NVQS/2015 | Điều 59 | Khoản 2]
 2. Hạ sĩ quan, binh sĩ tại ngũ, hạ sĩ quan, binh sĩ dự bị trong thời gian tập trung huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu mà vi phạm kỷ luật, vi phạm pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
 
 ## Điều 60. Hình thức kỷ luật đối với hạ sĩ quan, binh sĩ
 
-[LNVQS2015-D60-K1]
+[LUAT_NVQS/2015 | Điều 60 | Khoản 1]
 1. Hình thức kỷ luật đối với hạ sĩ quan, binh sĩ:
 
 a) Khiển trách;
@@ -901,22 +901,22 @@ d) Cách chức;
 
 e) Tước danh hiệu quân nhân.
 
-[LNVQS2015-D60-K2]
+[LUAT_NVQS/2015 | Điều 60 | Khoản 2]
 2. Bộ trưởng Bộ Quốc phòng quy định việc áp dụng các hình thức kỷ luật, thời hạn, trình tự và thẩm quyền xử lý kỷ luật đối với hạ sĩ quan, binh sĩ.
 
 # Chương IX. ĐIỀU KHOẢN THI HÀNH
 
 ## Điều 61. Hiệu lực thi hành
 
-[LNVQS2015-D61-K1]
+[LUAT_NVQS/2015 | Điều 61 | Khoản 1]
 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2016.
 
-[LNVQS2015-D61-K2]
+[LUAT_NVQS/2015 | Điều 61 | Khoản 2]
 2. Luật nghĩa vụ quân sự ngày 30 tháng 12 năm 1981; Luật sửa đổi, bổ sung một số điều của Luật nghĩa vụ quân sự ngày 21 tháng 12 năm 1990; Luật sửa đổi, bổ sung một số điều của Luật nghĩa vụ quân sự ngày 22 tháng 6 năm 1994 và Luật sửa đổi, bổ sung một số điều của Luật nghĩa vụ quân sự số 43/2005/QH11 ngày 14 tháng 6 năm 2005 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
 
 ## Điều 62. Quy định chi tiết
 
-[LNVQS2015-D62]
+[LUAT_NVQS/2015 | Điều 62]
 Chính phủ, các bộ quy định chi tiết thi hành các điều, khoản được giao trong Luật.
 
 ---
