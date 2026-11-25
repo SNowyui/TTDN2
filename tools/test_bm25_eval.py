@@ -127,7 +127,10 @@ def main():
         
     retriever = BM25Retriever(chunks)
     
-    with open(r"evaluation\evaluation\Bo_15_cau_hoi_kiem_thu.json", encoding="utf-8") as f:
+    p_json = Path("Bo_15_cau_hoi_kiem_thu.json")
+    if not p_json.exists():
+        p_json = Path(r"evaluation\evaluation\Bo_15_cau_hoi_kiem_thu.json")
+    with open(p_json, encoding="utf-8") as f:
         data = json.load(f)
         questions = data.get("questions", [])
         
