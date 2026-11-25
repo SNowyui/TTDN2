@@ -1,213 +1,214 @@
 
 {
-  "title": "Bo 15 cau hoi kiem thu - He thong Q&A quy dinh nghia vu quan su",
-  "version": "1.1",
+  "title": "Bộ 15 câu hỏi kiểm thử - Hệ thống Q&A quy định nghĩa vụ quân sự",
+  "version": "1.2",
+  "encoding": "UTF-8",
   "source_scope": [
-    "Luat Nghia vu quan su 2015",
-    "36/VBHN-BQP: Van ban hop nhat Thong tu 148/2018 va sua doi bo sung boi Thong tu 68/2025",
-    "88/VBHN-BQP: Van ban hop nhat Thong tu 105/2023 va sua doi bo sung boi Thong tu 106/2025"
+    "Luật Nghĩa vụ quân sự 2015",
+    "36/VBHN-BQP: Văn bản hợp nhất Thông tư 148/2018 và sửa đổi, bổ sung bởi Thông tư 68/2025",
+    "88/VBHN-BQP: Văn bản hợp nhất Thông tư 105/2023 và sửa đổi, bổ sung bởi Thông tư 106/2025"
   ],
   "citation_aliases": {
-    "LUAT_NVQS/2015": "Luat Nghia vu quan su 2015",
-    "TT148/2018": "36/VBHN-BQP - Thong tu 148/2018",
-    "TT105/2023": "88/VBHN-BQP - Thong tu 105/2023"
+    "LUAT_NVQS/2015": "Luật Nghĩa vụ quân sự 2015",
+    "TT148/2018": "36/VBHN-BQP - Thông tư 148/2018",
+    "TT105/2023": "88/VBHN-BQP - Thông tư 105/2023"
   },
   "questions": [
     {
       "id": "Q01",
-      "category": "Kien thuc - do tuoi",
-      "question": "Do tuoi goi nhap ngu thong thuong la bao nhieu? Truong hop nao co the duoc goi den het 27 tuoi?",
-      "expected_answer": "Cong dan du 18 tuoi duoc goi nhap ngu; do tuoi goi nhap ngu thong thuong la tu du 18 tuoi den het 25 tuoi. Cong dan nam duoc dao tao trinh do cao dang, dai hoc da duoc tam hoan goi nhap ngu trong thoi gian mot khoa dao tao cua mot trinh do dao tao thi co the duoc tuyen chon, goi nhap ngu den het 27 tuoi.",
+      "category": "Kiến thức - độ tuổi",
+      "question": "Độ tuổi gọi nhập ngũ thông thường là bao nhiêu? Trường hợp nào có thể được gọi đến hết 27 tuổi?",
+      "expected_answer": "Công dân đủ 18 tuổi được gọi nhập ngũ; độ tuổi gọi nhập ngũ thông thường là từ đủ 18 tuổi đến hết 25 tuổi. Công dân nam được đào tạo trình độ cao đẳng, đại học đã được tạm hoãn gọi nhập ngũ trong thời gian một khóa đào tạo của một trình độ đào tạo thì có thể được tuyển chọn, gọi nhập ngũ đến hết 27 tuổi.",
       "citations": [
-        "LUAT_NVQS/2015 | Dieu 30",
-        "TT148/2018 | Dieu 4 | Khoan 1"
+        "LUAT_NVQS/2015 | Điều 30",
+        "TT148/2018 | Điều 4 | Khoản 1"
       ],
-      "expected_behavior": "Tra loi truc tiep, neu ca do tuoi thong thuong va dieu kien keo dai den het 27 tuoi.",
+      "expected_behavior": "Trả lời trực tiếp, nêu cả độ tuổi thông thường và điều kiện kéo dài đến hết 27 tuổi.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi neu du moc 18-25 tuoi va dieu kien ap dung moc het 27 tuoi; khong khang dinh moi sinh vien deu tu dong thuoc dien nay.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi nêu đủ mốc 18-25 tuổi và điều kiện áp dụng mốc hết 27 tuổi; không khẳng định mọi sinh viên đều tự động thuộc diện này.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q02",
-      "category": "Kien thuc - dieu kien nhap ngu",
-      "question": "Theo Luat Nghia vu quan su 2015, cong dan duoc goi nhap ngu phai dap ung nhung tieu chuan nao?",
-      "expected_answer": "Khoan 1 Dieu 31 quy dinh cong dan duoc goi nhap ngu khi co du cac tieu chuan: ly lich ro rang; chap hanh nghiem duong loi, chu truong cua Dang, chinh sach, phap luat cua Nha nuoc; du suc khoe phuc vu tai ngu theo quy dinh; co trinh do van hoa phu hop.",
+      "category": "Kiến thức - điều kiện nhập ngũ",
+      "question": "Theo Luật Nghĩa vụ quân sự 2015, công dân được gọi nhập ngũ phải đáp ứng những tiêu chuẩn nào?",
+      "expected_answer": "Khoản 1 Điều 31 quy định công dân được gọi nhập ngũ khi có đủ các tiêu chuẩn: lý lịch rõ ràng; chấp hành nghiêm đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước; đủ sức khỏe phục vụ tại ngũ theo quy định; có trình độ văn hóa phù hợp.",
       "citations": [
-        "LUAT_NVQS/2015 | Dieu 31 | Khoan 1"
+        "LUAT_NVQS/2015 | Điều 31 | Khoản 1"
       ],
-      "expected_behavior": "Liet ke du bon tieu chuan theo Khoan 1 Dieu 31.",
+      "expected_behavior": "Liệt kê đủ bốn tiêu chuẩn theo Khoản 1 Điều 31.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi co du bon tieu chuan, khong tu them dieu kien khong xuat hien trong khoan duoc trich.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi có đủ bốn tiêu chuẩn, không tự thêm điều kiện không xuất hiện trong khoản được trích.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q03",
-      "category": "Kien thuc - thoi diem goi nhap ngu",
-      "question": "Hang nam cong dan duoc goi nhap ngu vao thoi diem nao va co the to chuc dot goi thu hai khong?",
-      "expected_answer": "Hang nam, viec goi cong dan nhap ngu duoc thuc hien mot lan vao thang hai hoac thang ba. Truong hop can thiet vi ly do quoc phong, an ninh thi co the goi nhap ngu lan thu hai. Doi voi dia phuong co tham hoa hoac dich benh nguy hiem, thoi gian goi nhap ngu co the duoc dieu chinh.",
+      "category": "Kiến thức - thời điểm gọi nhập ngũ",
+      "question": "Hằng năm công dân được gọi nhập ngũ vào thời điểm nào và có thể tổ chức đợt gọi thứ hai không?",
+      "expected_answer": "Hằng năm, việc gọi công dân nhập ngũ được thực hiện một lần vào tháng hai hoặc tháng ba. Trường hợp cần thiết vì lý do quốc phòng, an ninh thì có thể gọi nhập ngũ lần thứ hai. Đối với địa phương có thảm họa hoặc dịch bệnh nguy hiểm, thời gian gọi nhập ngũ có thể được điều chỉnh.",
       "citations": [
-        "LUAT_NVQS/2015 | Dieu 33"
+        "LUAT_NVQS/2015 | Điều 33"
       ],
-      "expected_behavior": "Neu lan goi thong thuong, dieu kien goi lan hai va truong hop dieu chinh thoi gian.",
+      "expected_behavior": "Nêu lần gọi thông thường, điều kiện gọi lần hai và trường hợp điều chỉnh thời gian.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi neu thang hai hoac thang ba va dieu kien quoc phong, an ninh cho lan goi thu hai; khong noi moi nam luon co hai dot.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi nêu tháng hai hoặc tháng ba và điều kiện quốc phòng, an ninh cho lần gọi thứ hai; không nói mỗi năm luôn có hai đợt.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q04",
-      "category": "Kien thuc - tam hoan hoc tap",
-      "question": "Nhung truong hop dang hoc nao duoc neu la can cu tam hoan goi nhap ngu?",
-      "expected_answer": "Cac truong hop gom: dang hoc tai co so giao duc pho thong; dang duoc dao tao trinh do dai hoc he chinh quy tai co so giao duc dai hoc; hoac trinh do cao dang he chinh quy tai co so giao duc nghe nghiep, trong thoi gian mot khoa dao tao cua mot trinh do dao tao.",
+      "category": "Kiến thức - tạm hoãn học tập",
+      "question": "Những trường hợp đang học nào được nêu là căn cứ tạm hoãn gọi nhập ngũ?",
+      "expected_answer": "Các trường hợp gồm: đang học tại cơ sở giáo dục phổ thông; đang được đào tạo trình độ đại học hệ chính quy tại cơ sở giáo dục đại học; hoặc trình độ cao đẳng hệ chính quy tại cơ sở giáo dục nghề nghiệp, trong thời gian một khóa đào tạo của một trình độ đào tạo.",
       "citations": [
-        "LUAT_NVQS/2015 | Dieu 41 | Khoan 1",
-        "TT148/2018 | Dieu 5 | Khoan 1"
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
+        "TT148/2018 | Điều 5 | Khoản 1"
       ],
-      "expected_behavior": "Tra loi co dieu kien, phan biet he chinh quy voi cac hinh thuc dao tao khac.",
+      "expected_behavior": "Trả lời có điều kiện, phân biệt hệ chính quy với các hình thức đào tạo khác.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi neu du pho thong, dai hoc chinh quy, cao dang chinh quy va gioi han mot khoa cua mot trinh do; khong khang dinh hoc bat ky chuong trinh nao cung duoc hoan.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi nêu đủ phổ thông, đại học chính quy, cao đẳng chính quy và giới hạn một khóa của một trình độ; không khẳng định học bất kỳ chương trình nào cũng được hoãn.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q05",
-      "category": "Kien thuc - hoan canh gia dinh",
-      "question": "Dieu kien tam hoan doi voi nguoi phai truc tiep nuoi duong than nhan duoc quy dinh nhu the nao?",
-      "expected_answer": "Diem b Khoan 1 Dieu 41 neu truong hop nguoi la lao dong duy nhat phai truc tiep nuoi duong than nhan khong con kha nang lao dong hoac chua den tuoi lao dong. Dieu khoan cung neu truong hop gia dinh bi thiet hai nang ve nguoi va tai san do tai nan, thien tai, dich benh nguy hiem gay ra va duoc Uy ban nhan dan cap xa xac nhan. Khong duoc dong nhat nguoi kiem tien chinh voi lao dong duy nhat.",
+      "category": "Kiến thức - hoàn cảnh gia đình",
+      "question": "Điều kiện tạm hoãn đối với người phải trực tiếp nuôi dưỡng thân nhân được quy định như thế nào?",
+      "expected_answer": "Điểm b Khoản 1 Điều 41 nêu trường hợp người là lao động duy nhất phải trực tiếp nuôi dưỡng thân nhân không còn khả năng lao động hoặc chưa đến tuổi lao động. Điều khoản cũng nêu trường hợp gia đình bị thiệt hại nặng về người và tài sản do tai nạn, thiên tai, dịch bệnh nguy hiểm gây ra và được Ủy ban nhân dân cấp xã xác nhận. Không được đồng nhất người kiếm tiền chính với lao động duy nhất.",
       "citations": [
-        "LUAT_NVQS/2015 | Dieu 41 | Khoan 1",
-        "TT148/2018 | Dieu 5 | Khoan 1"
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
+        "TT148/2018 | Điều 5 | Khoản 1"
       ],
-      "expected_behavior": "Bam sat cum tu phap ly ve lao dong duy nhat, than nhan va xac nhan cap xa.",
+      "expected_behavior": "Bám sát cụm từ pháp lý về lao động duy nhất, thân nhân và xác nhận cấp xã.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi neu dung dieu kien luat dinh; khong ket luan mot nguoi chi vi co thu nhap cao nhat trong nha thi duoc hoan.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi nêu đúng điều kiện luật định; không kết luận một người chỉ vì có thu nhập cao nhất trong nhà thì được hoãn.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q06",
-      "category": "Kien thuc - anh chi em dang phuc vu",
-      "question": "Co anh, chi hoac em ruot dang phuc vu tai ngu co phai la can cu tam hoan goi nhap ngu khong?",
-      "expected_answer": "Co. Diem d Khoan 1 Dieu 41 neu truong hop cong dan co anh, chi hoac em ruot la ha si quan, binh si dang phuc vu tai ngu hoac la ha si quan, chien si thuc hien nghia vu tham gia Cong an nhan dan.",
+      "category": "Kiến thức - anh chị em đang phục vụ",
+      "question": "Có anh, chị hoặc em ruột đang phục vụ tại ngũ có phải là căn cứ tạm hoãn gọi nhập ngũ không?",
+      "expected_answer": "Có. Điểm d Khoản 1 Điều 41 nêu trường hợp công dân có anh, chị hoặc em ruột là hạ sĩ quan, binh sĩ đang phục vụ tại ngũ hoặc là hạ sĩ quan, chiến sĩ thực hiện nghĩa vụ tham gia Công an nhân dân.",
       "citations": [
-        "LUAT_NVQS/2015 | Dieu 41 | Khoan 1",
-        "TT148/2018 | Dieu 5 | Khoan 1"
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
+        "TT148/2018 | Điều 5 | Khoản 1"
       ],
-      "expected_behavior": "Tra loi truc tiep va neu dung nhom anh, chi, em ruot duoc dieu khoan liet ke.",
+      "expected_behavior": "Trả lời trực tiếp và nêu đúng nhóm anh, chị, em ruột được điều khoản liệt kê.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi neu anh, chi hoac em ruot va dung nhom ha si quan, binh si tai ngu hoac ha si quan, chien si thuc hien nghia vu Cong an nhan dan.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi nêu anh, chị hoặc em ruột và đúng nhóm hạ sĩ quan, binh sĩ tại ngũ hoặc hạ sĩ quan, chiến sĩ thực hiện nghĩa vụ Công an nhân dân.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q07",
-      "category": "Kien thuc - mien goi nhap ngu",
-      "question": "Con cua liet si co thuoc truong hop duoc mien goi nhap ngu khong?",
-      "expected_answer": "Co. Diem a Khoan 2 Dieu 41 quy dinh con cua liet si va con cua thuong binh hang mot thuoc truong hop duoc mien goi nhap ngu.",
+      "category": "Kiến thức - miễn gọi nhập ngũ",
+      "question": "Con của liệt sĩ có thuộc trường hợp được miễn gọi nhập ngũ không?",
+      "expected_answer": "Có. Điểm a Khoản 2 Điều 41 quy định con của liệt sĩ và con của thương binh hạng một thuộc trường hợp được miễn gọi nhập ngũ.",
       "citations": [
-        "LUAT_NVQS/2015 | Dieu 41 | Khoan 2",
-        "TT148/2018 | Dieu 5 | Khoan 2"
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 2",
+        "TT148/2018 | Điều 5 | Khoản 2"
       ],
-      "expected_behavior": "Tra loi truc tiep, phan biet mien goi nhap ngu voi tam hoan goi nhap ngu.",
+      "expected_behavior": "Trả lời trực tiếp, phân biệt miễn gọi nhập ngũ với tạm hoãn gọi nhập ngũ.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi xac nhan con liet si thuoc dien mien goi nhap ngu; khong goi day la tam hoan.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi xác nhận con liệt sĩ thuộc diện miễn gọi nhập ngũ; không gọi đây là tạm hoãn.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q08",
-      "category": "Kien thuc - het ly do tam hoan",
-      "question": "Neu ly do tam hoan goi nhap ngu khong con, hoac nguoi thuoc dien tam hoan/mien tu nguyen nhap ngu, thi xu ly the nao?",
-      "expected_answer": "Cong dan thuoc dien tam hoan neu khong con ly do tam hoan thi duoc goi nhap ngu. Cong dan thuoc dien tam hoan hoac mien goi nhap ngu neu tinh nguyen thi duoc xem xet tuyen chon va goi nhap ngu; cum tu duoc xem xet khong co nghia la tu dong duoc goi.",
+      "category": "Kiến thức - hết lý do tạm hoãn",
+      "question": "Nếu lý do tạm hoãn gọi nhập ngũ không còn, hoặc người thuộc diện tạm hoãn/miễn tự nguyện nhập ngũ, thì xử lý thế nào?",
+      "expected_answer": "Công dân thuộc diện tạm hoãn nếu không còn lý do tạm hoãn thì được gọi nhập ngũ. Công dân thuộc diện tạm hoãn hoặc miễn gọi nhập ngũ nếu tình nguyện thì được xem xét tuyển chọn và gọi nhập ngũ; cụm từ được xem xét không có nghĩa là tự động được gọi.",
       "citations": [
-        "LUAT_NVQS/2015 | Dieu 41 | Khoan 3",
-        "TT148/2018 | Dieu 5 | Khoan 3"
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 3",
+        "TT148/2018 | Điều 5 | Khoản 3"
       ],
-      "expected_behavior": "Phan biet hai tinh huong va giu dung muc do phap ly cua cum tu duoc xem xet.",
+      "expected_behavior": "Phân biệt hai tình huống và giữ đúng mức độ pháp lý của cụm từ được xem xét.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi noi het ly do tam hoan thi duoc goi; nguoi tinh nguyen thuoc dien hoan/mien chi duoc xem xet tuyen chon, khong khang dinh tu dong nhap ngu.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi nói hết lý do tạm hoãn thì được gọi; người tình nguyện thuộc diện hoãn/miễn chỉ được xem xét tuyển chọn, không khẳng định tự động nhập ngũ.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q09",
-      "category": "Kien thuc - tieu chuan suc khoe",
-      "question": "Tieu chuan suc khoe chung de thuc hien nghia vu quan su la loai suc khoe nao? Truong hop nao lien quan den ma tuy khong duoc goi nhap ngu?",
-      "expected_answer": "Tieu chuan suc khoe chung de thuc hien nghia vu quan su la dat suc khoe loai 1, loai 2 hoac loai 3. Khong goi nhap ngu doi voi cong dan nghien cac chat ma tuy, tien chat ma tuy duoc quy dinh tai Nghi dinh so 57/2022/ND-CP.",
+      "category": "Kiến thức - tiêu chuẩn sức khỏe",
+      "question": "Tiêu chuẩn sức khỏe chung để thực hiện nghĩa vụ quân sự là loại sức khỏe nào? Trường hợp nào liên quan đến ma túy không được gọi nhập ngũ?",
+      "expected_answer": "Tiêu chuẩn sức khỏe chung để thực hiện nghĩa vụ quân sự là đạt sức khỏe loại 1, loại 2 hoặc loại 3. Không gọi nhập ngũ đối với công dân nghiện các chất ma túy, tiền chất ma túy được quy định tại Nghị định số 57/2022/NĐ-CP.",
       "citations": [
-        "TT105/2023 | Dieu 4 | Khoan 1"
+        "TT105/2023 | Điều 4 | Khoản 1"
       ],
-      "expected_behavior": "Neu dung loai suc khoe va phan biet tinh trang nghien voi viec chi tung su dung chat ma tuy.",
+      "expected_behavior": "Nêu đúng loại sức khỏe và phân biệt tình trạng nghiện với việc chỉ từng sử dụng chất ma túy.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi neu loai 1, 2, 3 va dung truong hop nghien cac chat ma tuy, tien chat ma tuy; khong suy rong thanh moi nguoi tung su dung deu thuoc truong hop nay.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi nêu loại 1, 2, 3 và đúng trường hợp nghiện các chất ma túy, tiền chất ma túy; không suy rộng thành mọi người từng sử dụng đều thuộc trường hợp này.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q10",
-      "category": "Kien thuc - cach phan loai suc khoe",
-      "question": "Theo Thong tu 105/2023, moi chi tieu suc khoe duoc cham diem ra sao va suc khoe loai 1 duoc xac dinh the nao?",
-      "expected_answer": "Moi chi tieu sau khi kham duoc cham diem chan tu 1 den 6: diem 1 la rat tot; diem 2 la tot; diem 3 la kha; diem 4 la trung binh; diem 5 la kem; diem 6 la rat kem. Suc khoe loai 1 la truong hop tat ca cac chi tieu deu dat diem 1.",
+      "category": "Kiến thức - cách phân loại sức khỏe",
+      "question": "Theo Thông tư 105/2023, mỗi chỉ tiêu sức khỏe được chấm điểm ra sao và sức khỏe loại 1 được xác định thế nào?",
+      "expected_answer": "Mỗi chỉ tiêu sau khi khám được chấm điểm chẵn từ 1 đến 6: điểm 1 là rất tốt; điểm 2 là tốt; điểm 3 là khá; điểm 4 là trung bình; điểm 5 là kém; điểm 6 là rất kém. Sức khỏe loại 1 là trường hợp tất cả các chỉ tiêu đều đạt điểm 1.",
       "citations": [
-        "TT105/2023 | Dieu 6 | Khoan 1",
-        "TT105/2023 | Dieu 6 | Khoan 2"
+        "TT105/2023 | Điều 6 | Khoản 1",
+        "TT105/2023 | Điều 6 | Khoản 2"
       ],
-      "expected_behavior": "Tra loi theo thang diem va neu chinh xac dieu kien cua loai 1.",
+      "expected_behavior": "Trả lời theo thang điểm và nêu chính xác điều kiện của loại 1.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi neu thang diem 1-6 va mo ta loai 1 la tat ca chi tieu diem 1; khong nham loai 1 voi co it nhat mot chi tieu diem 1.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi nêu thang điểm 1-6 và mô tả loại 1 là tất cả chỉ tiêu điểm 1; không nhầm loại 1 với có ít nhất một chỉ tiêu điểm 1.",
+      "cross_check": "Đã đối chiếu nội dung và cả hai nhãn với data/chunks.json."
     },
     {
       "id": "Q11",
-      "category": "Kien thuc - mat va BMI",
-      "question": "Theo tieu chuan tuyen quan trong du lieu Thong tu 148, nhung truong hop nao ve tat khuc xa va BMI duoc neu la khong goi nhap ngu vao Quan doi?",
-      "expected_answer": "Khoan 3 Dieu 4 neu cac truong hop khong goi nhap ngu vao Quan doi gom cong dan mac tat khuc xa can thi voi cach dien dat trong du lieu la lon hon 1.5 diop tro len; vien thi cac muc do; chi so BMI nho hon 18.0 hoac lon hon 29.9.",
+      "category": "Kiến thức - mắt và BMI",
+      "question": "Theo tiêu chuẩn tuyển quân trong dữ liệu Thông tư 148, những trường hợp nào về tật khúc xạ và BMI được nêu là không gọi nhập ngũ vào Quân đội?",
+      "expected_answer": "Khoản 3 Điều 4 nêu các trường hợp không gọi nhập ngũ vào Quân đội gồm công dân mắc tật khúc xạ cận thị với cách diễn đạt trong dữ liệu là 'lớn hơn 1.5 diop trở lên'; viễn thị các mức độ; chỉ số BMI nhỏ hơn 18.0 hoặc lớn hơn 29.9.",
       "citations": [
-        "TT148/2018 | Dieu 4 | Khoan 3"
+        "TT148/2018 | Điều 4 | Khoản 3"
       ],
-      "expected_behavior": "Tra loi theo dung noi dung chunk, khong tu sua hoac suy dien nguong can thi tai dung 1.5 diop.",
+      "expected_behavior": "Trả lời theo đúng nội dung chunk, không tự sửa hoặc suy diễn ngưỡng cận thị tại đúng 1.5 diop.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi neu du can thi theo dung cau chu nguon, vien thi cac muc do, BMI nho hon 18.0 hoac lon hon 29.9; khong tu doi dau so sanh.",
-      "cross_check": "Da doi chieu voi chunk; can kiem tra lai cau chu nguong can thi trong van ban goc neu su dung de tu van ranh gioi 1.5 diop"
+      "scoring_criteria": "Đạt khi nêu đủ cận thị theo đúng câu chữ nguồn, viễn thị các mức độ, BMI nhỏ hơn 18.0 hoặc lớn hơn 29.9; không tự đổi dấu so sánh.",
+      "cross_check": "Đã đối chiếu nhãn với data/chunks.json. Câu chữ ngưỡng cận thị trong chunk cần được kiểm tra lại với bản văn bản gốc nếu sử dụng để tư vấn ranh giới 1.5 diop."
     },
     {
       "id": "Q12",
-      "category": "Kien thuc - so tuyen suc khoe",
-      "question": "Theo Thong tu 105/2023, co quan nao thuc hien so tuyen suc khoe nghia vu quan su tai cap xa va hoat dong nay chiu su chi dao, huong dan, giam sat cua nhung co quan nao?",
-      "expected_answer": "Tram y te cap xa thuc hien so tuyen suc khoe nghia vu quan su. Hoat dong nay chiu su chi dao, huong dan ve chuyen mon, nghiep vu cua So Y te hoac benh vien, trung tam y te truc thuoc So Y te; dong thoi chiu su giam sat cua Ban chi huy quan su cap xa va Ban chi huy phong thu khu vuc.",
+      "category": "Kiến thức - sơ tuyển sức khỏe",
+      "question": "Theo Thông tư 105/2023, cơ quan nào thực hiện sơ tuyển sức khỏe nghĩa vụ quân sự tại cấp xã và hoạt động này chịu sự chỉ đạo, hướng dẫn, giám sát của những cơ quan nào?",
+      "expected_answer": "Trạm y tế cấp xã thực hiện sơ tuyển sức khỏe nghĩa vụ quân sự. Hoạt động này chịu sự chỉ đạo, hướng dẫn về chuyên môn, nghiệp vụ của Sở Y tế hoặc bệnh viện, trung tâm y tế trực thuộc Sở Y tế; đồng thời chịu sự giám sát của Ban chỉ huy quân sự cấp xã và Ban chỉ huy phòng thủ khu vực.",
       "citations": [
-        "TT105/2023 | Dieu 7 | Khoan 1"
+        "TT105/2023 | Điều 7 | Khoản 1"
       ],
-      "expected_behavior": "Neu dung co quan thuc hien so tuyen, co quan chi dao/huong dan chuyen mon va cac don vi giam sat.",
+      "expected_behavior": "Nêu đúng cơ quan thực hiện sơ tuyển, cơ quan chỉ đạo/hướng dẫn chuyên môn và các đơn vị giám sát.",
       "citation_expected": true,
-      "scoring_criteria": "Dat khi co du Tram y te cap xa, So Y te hoac benh vien/trung tam y te truc thuoc So Y te, Ban chi huy quan su cap xa va Ban chi huy phong thu khu vuc.",
-      "cross_check": "Nhan va noi dung da doi chieu voi data/chunks.json"
+      "scoring_criteria": "Đạt khi có đủ Trạm y tế cấp xã, Sở Y tế hoặc bệnh viện/trung tâm y tế trực thuộc Sở Y tế, Ban chỉ huy quân sự cấp xã và Ban chỉ huy phòng thủ khu vực.",
+      "cross_check": "Đã đối chiếu nội dung và nhãn với data/chunks.json."
     },
     {
       "id": "Q13",
-      "category": "Thieu du kien - hoc tap",
-      "question": "Toi dang hoc dai hoc. Toi co duoc tam hoan goi nhap ngu khong?",
-      "expected_answer": "KHONG TIM THAY: Chua du thong tin trong cau hoi de xac dinh truong hop cu the. Can biet nguoi hoi co dang hoc dai hoc he chinh quy tai co so giao duc dai hoc va con trong thoi gian mot khoa dao tao cua mot trinh do dao tao hay khong.",
+      "category": "Thiếu dữ kiện - học tập",
+      "question": "Tôi đang học đại học. Tôi có được tạm hoãn gọi nhập ngũ không?",
+      "expected_answer": "KHÔNG TÌM THẤY: Chưa đủ thông tin trong câu hỏi để xác định trường hợp cụ thể. Cần biết người hỏi có đang học đại học hệ chính quy tại cơ sở giáo dục đại học và còn trong thời gian một khóa đào tạo của một trình độ đào tạo hay không.",
       "citations": [],
-      "expected_behavior": "Bat dau bang KHONG TIM THAY:, giai thich thieu thong tin ca nhan de ket luan va khong tu tao nhan trich dan theo quy tac prompt hien tai.",
+      "expected_behavior": "Bắt đầu bằng KHÔNG TÌM THẤY:, giải thích thiếu thông tin cá nhân để kết luận và không tự tạo nhãn trích dẫn theo quy tắc prompt hiện tại.",
       "citation_expected": false,
-      "scoring_criteria": "Dat khi khong khang dinh co hoac khong chi tu thong tin dang hoc dai hoc; neu duoc du kien con thieu va khong dua trich dan.",
-      "cross_check": "Da dieu chinh theo quy tac tu choi trong qa/core.py"
+      "scoring_criteria": "Đạt khi không khẳng định có hoặc không chỉ từ thông tin đang học đại học; nêu được dữ kiện còn thiếu và không đưa trích dẫn.",
+      "cross_check": "Đã điều chỉnh để tương thích quy tắc từ chối trong qa/core.py."
     },
     {
       "id": "Q14",
-      "category": "Thieu du kien - hoan canh gia dinh",
-      "question": "Toi la nguoi kiem tien chinh trong nha va bo me da lon tuoi. Toi co duoc tam hoan goi nhap ngu khong?",
-      "expected_answer": "KHONG TIM THAY: Chua du thong tin trong cau hoi de xac dinh truong hop cu the. Can xac dinh nguoi hoi co phai la lao dong duy nhat truc tiep nuoi duong than nhan hay khong va than nhan co khong con kha nang lao dong hoac chua den tuoi lao dong hay khong.",
+      "category": "Thiếu dữ kiện - hoàn cảnh gia đình",
+      "question": "Tôi là người kiếm tiền chính trong nhà và bố mẹ đã lớn tuổi. Tôi có được tạm hoãn gọi nhập ngũ không?",
+      "expected_answer": "KHÔNG TÌM THẤY: Chưa đủ thông tin trong câu hỏi để xác định trường hợp cụ thể. Cần xác định người hỏi có phải là lao động duy nhất trực tiếp nuôi dưỡng thân nhân hay không và thân nhân có không còn khả năng lao động hoặc chưa đến tuổi lao động hay không.",
       "citations": [],
-      "expected_behavior": "Bat dau bang KHONG TIM THAY:, neu ro du kien can lam ro va khong tu tao nhan trich dan theo quy tac prompt hien tai.",
+      "expected_behavior": "Bắt đầu bằng KHÔNG TÌM THẤY:, nêu rõ dữ kiện cần làm rõ và không tự tạo nhãn trích dẫn theo quy tắc prompt hiện tại.",
       "citation_expected": false,
-      "scoring_criteria": "Dat khi phan biet nguoi kiem tien chinh voi lao dong duy nhat; khong dong nhat tuoi cao voi khong con kha nang lao dong; khong dua trich dan.",
-      "cross_check": "Da dieu chinh theo quy tac tu choi trong qa/core.py"
+      "scoring_criteria": "Đạt khi phân biệt người kiếm tiền chính với lao động duy nhất; không đồng nhất tuổi cao với không còn khả năng lao động; không đưa trích dẫn.",
+      "cross_check": "Đã điều chỉnh để tương thích quy tắc từ chối trong qa/core.py."
     },
     {
       "id": "Q15",
-      "category": "Ngoai pham vi",
-      "question": "Toi muon lam ho chieu pho thong de di du lich nuoc ngoai thi can chuan bi giay to gi?",
-      "expected_answer": "KHONG TIM THAY: Cac tai lieu duoc cung cap chi de cap den nghia vu quan su, tuyen quan va tieu chuan, kham suc khoe thuoc pham vi quan ly cua Bo Quoc phong. Tai lieu hien co khong quy dinh thu tuc cap ho chieu pho thong nen khong du can cu de tra loi.",
+      "category": "Ngoài phạm vi",
+      "question": "Tôi muốn làm hộ chiếu phổ thông để đi du lịch nước ngoài thì cần chuẩn bị giấy tờ gì?",
+      "expected_answer": "KHÔNG TÌM THẤY: Các tài liệu được cung cấp chỉ đề cập đến nghĩa vụ quân sự, tuyển quân và tiêu chuẩn, khám sức khỏe thuộc phạm vi quản lý của Bộ Quốc phòng. Tài liệu hiện có không quy định thủ tục cấp hộ chiếu phổ thông nên không đủ căn cứ để trả lời.",
       "citations": [],
-      "expected_behavior": "Tu choi co giai thich bang dung tien to KHONG TIM THAY:, khong tu tao huong dan hoac can cu phap ly.",
+      "expected_behavior": "Từ chối có giải thích bằng đúng tiền tố KHÔNG TÌM THẤY:, không tự tạo hướng dẫn hoặc căn cứ pháp lý.",
       "citation_expected": false,
-      "scoring_criteria": "Dat khi nhan dien ngoai pham vi, giai thich du lieu hien co khong ho tro va khong bia trich dan.",
-      "cross_check": "Da doi chieu pham vi du lieu trong README.md"
+      "scoring_criteria": "Đạt khi nhận diện ngoài phạm vi, giải thích dữ liệu hiện có không hỗ trợ và không bịa trích dẫn.",
+      "cross_check": "Đã đối chiếu phạm vi dữ liệu trong README.md."
     }
   ]
 }
