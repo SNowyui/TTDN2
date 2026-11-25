@@ -18,7 +18,7 @@ API_URL = "https://api.anthropic.com/v1/messages"
 API_VERSION = "2023-06-01"
 OPENAI_URL = "https://api.openai.com/v1/responses"
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-DEFAULT_MODELS = {"anthropic": "claude-sonnet-5-5", "openai": "gpt-5.5", "groq": "llama-3.3-70b-versatile"}
+DEFAULT_MODELS = {"anthropic": "claude-3-5-sonnet-20241022", "openai": "gpt-4o-mini", "groq": "llama-3.3-70b-versatile"}
 KEY_ENV = {"anthropic": "ANTHROPIC_API_KEY", "openai": "OPENAI_API_KEY", "groq": "GROQ_API_KEY"}
 MODEL_ENV = {"anthropic": "ANTHROPIC_MODEL", "openai": "OPENAI_MODEL", "groq": "GROQ_MODEL"}
 TIMEOUT_S = 120
@@ -71,6 +71,8 @@ def _http_error(e):
         detail, code = "", ""
     if "credit balance" in detail.lower() or code == "insufficient_quota":
         return LLMError("quota", "Tài khoản API đã hết credit hoặc hết hạn mức. Hãy nạp thêm rồi thử lại.")
+    if "model" in detail.lower() and ("access" in detail.lower() or "not exist" in detail.lower() or "found" in detail.lower()):
+        return LLMError("model", f"Không có quyền truy cập mô hình '{model_name()}'. Hãy kiểm tra {MODEL_ENV[provider()]} trong .env (gợi ý: gpt-4o-mini).")
     low = detail.lower()
     if e.code in (413, 429) and ("tokens per minute" in low or "request too large" in low or "tpm" in low):
         return LLMError("too_long", "Yêu cầu vượt giới hạn token mỗi phút của gói API hiện tại (long-context gửi cả bộ văn bản, "
