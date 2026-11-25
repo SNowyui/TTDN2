@@ -1,0 +1,211 @@
+{
+  "title": "Bộ 15 câu hỏi kiểm thử - Hệ thống Q&A quy định nghĩa vụ quân sự",
+  "version": "1.4",
+  "encoding": "UTF-8",
+  "source_scope": [
+    "Luật Nghĩa vụ quân sự 2015",
+    "36/VBHN-BQP: Văn bản hợp nhất Thông tư 148/2018 và sửa đổi, bổ sung bởi Thông tư 68/2025",
+    "88/VBHN-BQP: Văn bản hợp nhất Thông tư 105/2023 và sửa đổi, bổ sung bởi Thông tư 106/2025"
+  ],
+  "citation_aliases": {
+    "LUAT_NVQS/2015": "Luật Nghĩa vụ quân sự 2015",
+    "TT148/2018": "36/VBHN-BQP - Thông tư 148/2018",
+    "TT105/2023": "88/VBHN-BQP - Thông tư 105/2023"
+  },
+  "questions": [
+    {
+      "id": "Q01",
+      "category": "Kiến thức - độ tuổi",
+      "question": "Độ tuổi gọi nhập ngũ thông thường là bao nhiêu? Trường hợp nào có thể được gọi đến hết 27 tuổi?",
+      "expected_answer": "Từ đủ 18 tuổi đến hết 25 tuổi. Công dân nam được đào tạo trình độ cao đẳng, đại học đã được tạm hoãn gọi nhập ngũ trong thời gian một khóa đào tạo của một trình độ đào tạo thì được tuyển chọn và gọi nhập ngũ đến hết 27 tuổi.",
+      "citations": [
+        "LUAT_NVQS/2015 | Điều 30",
+        "TT148/2018 | Điều 4 | Khoản 1"
+      ],
+      "expected_behavior": "Nêu cả độ tuổi thông thường và điều kiện áp dụng giới hạn 27 tuổi.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi nêu đủ 18–25 tuổi và điều kiện đến hết 27 tuổi; không khẳng định mọi sinh viên tự động thuộc diện này.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: Luật NVQS Điều 30; VBHN 36 Điều 4 khoản 1 điểm a, b. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q02",
+      "category": "Tình huống - trình độ văn hóa",
+      "question": "Ở địa phương khó khăn không bảo đảm đủ chỉ tiêu giao quân, công dân có trình độ văn hóa lớp 7 có thể được tuyển chọn xét riêng về tiêu chuẩn văn hóa không?",
+      "expected_answer": "Có thể. Thông thường tuyển công dân có trình độ văn hóa lớp 8 trở lên, lấy từ cao xuống thấp. Địa phương khó khăn không bảo đảm đủ chỉ tiêu giao quân phải báo cáo cấp có thẩm quyền xem xét, quyết định việc tuyển chọn công dân có trình độ văn hóa lớp 7.",
+      "citations": [
+        "TT148/2018 | Điều 4 | Khoản 4"
+      ],
+      "expected_behavior": "Trả lời có điều kiện, không kết luận đủ mọi tiêu chuẩn nhập ngũ.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi nêu chuẩn lớp 8 trở lên, trường hợp khó khăn thiếu chỉ tiêu và yêu cầu báo cáo cấp có thẩm quyền xem xét, quyết định.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: VBHN 36 Điều 4 khoản 4 điểm a. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q03",
+      "category": "Kiến thức - thời điểm gọi nhập ngũ",
+      "question": "Hằng năm công dân được gọi nhập ngũ mấy lần, vào thời điểm nào? Khi nào có thể tổ chức đợt gọi thứ hai hoặc điều chỉnh thời gian?",
+      "expected_answer": "Một lần vào tháng hai hoặc tháng ba. Khi cần thiết vì lý do quốc phòng, an ninh thì được gọi lần thứ hai. Địa phương có thảm họa hoặc dịch bệnh nguy hiểm được điều chỉnh thời gian gọi nhập ngũ.",
+      "citations": [
+        "LUAT_NVQS/2015 | Điều 33"
+      ],
+      "expected_behavior": "Nêu số lần, thời điểm và các ngoại lệ.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi đủ ba ý: một lần tháng 2 hoặc 3; lần hai vì quốc phòng, an ninh; điều chỉnh khi có thảm họa hoặc dịch bệnh nguy hiểm.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: Luật NVQS Điều 33. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q04",
+      "category": "Kiến thức - tạm hoãn học tập",
+      "question": "Những trường hợp đang học nào được nêu là căn cứ tạm hoãn gọi nhập ngũ?",
+      "expected_answer": "Đang học tại cơ sở giáo dục phổ thông; đang được đào tạo đại học hệ chính quy tại cơ sở giáo dục đại học hoặc cao đẳng hệ chính quy tại cơ sở giáo dục nghề nghiệp trong thời gian một khóa đào tạo của một trình độ đào tạo.",
+      "citations": [
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
+        "TT148/2018 | Điều 5 | Khoản 1"
+      ],
+      "expected_behavior": "Phân biệt hệ chính quy và giới hạn một khóa đào tạo.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi đủ phổ thông, đại học chính quy, cao đẳng chính quy và giới hạn một khóa của một trình độ đối với đại học/cao đẳng.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: Luật NVQS Điều 41 khoản 1 điểm g; VBHN 36 Điều 5 khoản 1 điểm g. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q05",
+      "category": "Kiến thức - hoàn cảnh gia đình",
+      "question": "Người trực tiếp nuôi dưỡng thân nhân thuộc diện tạm hoãn gọi nhập ngũ khi đáp ứng điều kiện nào về lao động và khả năng lao động của thân nhân?",
+      "expected_answer": "Là lao động duy nhất phải trực tiếp nuôi dưỡng thân nhân không còn khả năng lao động hoặc chưa đến tuổi lao động.",
+      "citations": [
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 1",
+        "TT148/2018 | Điều 5 | Khoản 1"
+      ],
+      "expected_behavior": "Nêu đúng điều kiện luật định; không đồng nhất người kiếm tiền chính với lao động duy nhất.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi đủ lao động duy nhất, trực tiếp nuôi dưỡng, và thân nhân không còn khả năng lao động hoặc chưa đến tuổi lao động.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: Luật NVQS Điều 41 khoản 1 điểm b; VBHN 36 Điều 5 khoản 1 điểm b. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q06",
+      "category": "Kiến thức - thời hạn phục vụ",
+      "question": "Thời hạn phục vụ tại ngũ thông thường trong thời bình của hạ sĩ quan, binh sĩ là bao lâu?",
+      "expected_answer": "Thời hạn phục vụ tại ngũ trong thời bình là 24 tháng.",
+      "citations": [
+        "LUAT_NVQS/2015 | Điều 21 | Khoản 1"
+      ],
+      "expected_behavior": "Trả lời đúng thời hạn thông thường; không tự suy rộng sang trường hợp kéo dài.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi nêu đúng 24 tháng, không nhầm với thời gian kéo dài hoặc trường hợp khác.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: Luật NVQS Điều 21 khoản 1. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q07",
+      "category": "Kiến thức - miễn gọi nhập ngũ",
+      "question": "Con của liệt sĩ có thuộc trường hợp được miễn gọi nhập ngũ không?",
+      "expected_answer": "Có. Con của liệt sĩ thuộc trường hợp được miễn gọi nhập ngũ.",
+      "citations": [
+        "LUAT_NVQS/2015 | Điều 41 | Khoản 2",
+        "TT148/2018 | Điều 5 | Khoản 2"
+      ],
+      "expected_behavior": "Phân biệt miễn gọi nhập ngũ và tạm hoãn.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi xác nhận con liệt sĩ thuộc diện miễn gọi nhập ngũ, không nhầm thành tạm hoãn.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: Luật NVQS Điều 41 khoản 2 điểm a; VBHN 36 Điều 5 khoản 2 điểm a. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q08",
+      "category": "Kiến thức - quyền lợi khi khám",
+      "question": "Công dân đang làm việc tại cơ quan, tổ chức được hưởng chế độ gì trong thời gian đi khám, kiểm tra sức khỏe nghĩa vụ quân sự?",
+      "expected_answer": "Được trả nguyên lương, tiền tàu xe và các khoản phụ cấp hiện hưởng.",
+      "citations": [
+        "LUAT_NVQS/2015 | Điều 49 | Khoản 1"
+      ],
+      "expected_behavior": "Liệt kê đúng ba quyền lợi cho nhóm đang làm việc tại cơ quan, tổ chức.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi đủ nguyên lương, tiền tàu xe và các khoản phụ cấp hiện hưởng.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: Luật NVQS Điều 49 khoản 1. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q09",
+      "category": "Kiến thức - tiêu chuẩn sức khỏe",
+      "question": "Theo VBHN 88/VBHN-BQP, tiêu chuẩn sức khỏe chung để thực hiện nghĩa vụ quân sự gồm các loại nào? Quy định gì đối với người nghiện chất ma túy, tiền chất ma túy?",
+      "expected_answer": "Đạt sức khỏe loại 1, loại 2, loại 3. Không gọi nhập ngũ đối với công dân nghiện các chất ma túy, tiền chất ma túy được quy định tại Nghị định 57/2022/NĐ-CP.",
+      "citations": [
+        "TT105/2023 | Điều 4 | Khoản 1"
+      ],
+      "expected_behavior": "Nêu tiêu chuẩn chung và quy định về tình trạng nghiện.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi nêu đủ loại 1, 2, 3 và quy định không gọi đối với người nghiện các chất ma túy, tiền chất ma túy theo Nghị định 57/2022/NĐ-CP; không coi đạt loại sức khỏe là đủ mọi tiêu chuẩn.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: VBHN 88 Điều 4 khoản 1 điểm a. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q10",
+      "category": "Kiến thức - phân loại sức khỏe",
+      "question": "Mỗi chỉ tiêu sức khỏe được chấm theo thang điểm nào? Sức khỏe loại 1 được xác định thế nào?",
+      "expected_answer": "Mỗi chỉ tiêu được chấm điểm từ 1 đến 6: 1 rất tốt, 2 tốt, 3 khá, 4 trung bình, 5 kém, 6 rất kém. Loại 1 khi tất cả các chỉ tiêu đều đạt điểm 1.",
+      "citations": [
+        "TT105/2023 | Điều 6 | Khoản 1",
+        "TT105/2023 | Điều 6 | Khoản 2"
+      ],
+      "expected_behavior": "Nêu thang điểm và điều kiện loại 1.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi nêu đúng thang điểm và tất cả chỉ tiêu phải đạt điểm 1; không nhầm chỉ cần một chỉ tiêu điểm 1.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: VBHN 88 Điều 6 khoản 1, khoản 2 điểm a. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q11",
+      "category": "Tình huống - cận thị và BMI",
+      "question": "Xét riêng tiêu chuẩn mắt và BMI theo VBHN 36/VBHN-BQP: công dân cận thị 2 diop có được gọi nhập ngũ vào Quân đội không? Những mức BMI nào không được gọi?",
+      "expected_answer": "Không gọi nhập ngũ vào Quân đội đối với công dân cận thị 2 diop vì thuộc trường hợp cận thị lớn hơn 1.5 diop theo câu chữ của văn bản. BMI nhỏ hơn 18.0 hoặc lớn hơn 29.9 cũng thuộc trường hợp không gọi nhập ngũ.",
+      "citations": [
+        "TT148/2018 | Điều 4 | Khoản 3"
+      ],
+      "expected_behavior": "Áp dụng trường hợp 2 diop; giữ đúng dấu so sánh BMI, không suy diễn ranh giới cận thị 1.5 diop.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi kết luận không gọi với cận 2 diop và nêu BMI < 18.0 hoặc > 29.9; không đổi thành ≤ hoặc ≥.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: VBHN 36 Điều 4 khoản 3 điểm c (nguyên văn nguồn: “lớn hơn 1.5 diop trở lên”). Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q12",
+      "category": "Kiến thức - sơ tuyển sức khỏe",
+      "question": "Cơ quan nào thực hiện sơ tuyển sức khỏe nghĩa vụ quân sự tại cấp xã? Những cơ quan nào chỉ đạo, hướng dẫn chuyên môn và giám sát?",
+      "expected_answer": "Trạm y tế cấp xã thực hiện; chịu sự chỉ đạo, hướng dẫn về chuyên môn, nghiệp vụ của Sở Y tế hoặc bệnh viện, trung tâm y tế trực thuộc Sở Y tế; chịu sự giám sát của Ban chỉ huy quân sự cấp xã và Ban chỉ huy phòng thủ khu vực.",
+      "citations": [
+        "TT105/2023 | Điều 7 | Khoản 1"
+      ],
+      "expected_behavior": "Phân biệt thực hiện, hướng dẫn chuyên môn và giám sát.",
+      "citation_expected": true,
+      "scoring_criteria": "Đạt khi đủ Trạm y tế cấp xã, Sở Y tế hoặc bệnh viện/trung tâm y tế trực thuộc Sở Y tế, Ban chỉ huy quân sự cấp xã và Ban chỉ huy phòng thủ khu vực.",
+      "cross_check": "Đã rà soát với chunks.json và văn bản gốc: VBHN 88 Điều 7 khoản 1. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q13",
+      "category": "Thiếu dữ kiện - lịch khám cá nhân",
+      "question": "Tôi đã đăng ký nghĩa vụ quân sự nhưng chưa cung cấp giấy gọi khám. Ngày, giờ và địa điểm khám cụ thể của tôi là gì?",
+      "expected_answer": "KHÔNG TÌM THẤY: Chưa có giấy gọi khám hoặc thông tin lịch khám cá nhân nên không thể xác định ngày, giờ và địa điểm cụ thể.",
+      "citations": [],
+      "expected_behavior": "Từ chối bằng đúng tiền tố, nêu dữ kiện cần bổ sung và không trích dẫn.",
+      "citation_expected": false,
+      "scoring_criteria": "Đạt khi mở đầu KHÔNG TÌM THẤY:, nói thiếu giấy gọi/lịch khám cá nhân; không tự đoán ngày, giờ, địa điểm và không trích dẫn.",
+      "cross_check": "Đã rà soát phạm vi và quy tắc từ chối trong qa/core.py: Không có thông tin lịch khám cá nhân trong bộ văn bản. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q14",
+      "category": "Thiếu dữ kiện - chỉ tiêu giao quân",
+      "question": "Chỉ tiêu giao quân chính xác của xã nơi tôi cư trú trong đợt tuyển quân sắp tới là bao nhiêu người? Tôi chưa cung cấp tên xã hay quyết định giao chỉ tiêu.",
+      "expected_answer": "KHÔNG TÌM THẤY: Chưa có tên xã, đợt tuyển quân cụ thể và quyết định giao chỉ tiêu tương ứng; bộ văn bản không cung cấp số chỉ tiêu giao quân của xã đó.",
+      "citations": [],
+      "expected_behavior": "Từ chối bằng đúng tiền tố; phân biệt quy định chung với dữ liệu chỉ tiêu thực tế.",
+      "citation_expected": false,
+      "scoring_criteria": "Đạt khi mở đầu KHÔNG TÌM THẤY:, chỉ ra dữ kiện/ quyết định còn thiếu, không bịa số lượng và không trích dẫn.",
+      "cross_check": "Đã rà soát phạm vi và quy tắc từ chối trong qa/core.py: Không có số chỉ tiêu giao quân riêng của địa phương trong bộ văn bản. Chờ người khác đối chiếu độc lập."
+    },
+    {
+      "id": "Q15",
+      "category": "Ngoài phạm vi",
+      "question": "Tôi muốn làm hộ chiếu phổ thông để đi du lịch nước ngoài thì cần chuẩn bị giấy tờ gì?",
+      "expected_answer": "KHÔNG TÌM THẤY: Bộ tài liệu về nghĩa vụ quân sự, tuyển quân và sức khỏe không quy định thủ tục cấp hộ chiếu phổ thông, nên không đủ căn cứ để trả lời.",
+      "citations": [],
+      "expected_behavior": "Từ chối có giải thích bằng đúng tiền tố, không tự tạo hướng dẫn hoặc trích dẫn.",
+      "citation_expected": false,
+      "scoring_criteria": "Đạt khi mở đầu KHÔNG TÌM THẤY:, xác định câu hỏi ngoài phạm vi, không đưa hướng dẫn cấp hộ chiếu và không trích dẫn.",
+      "cross_check": "Đã rà soát phạm vi và quy tắc từ chối trong qa/core.py: Phạm vi ba văn bản không bao gồm thủ tục cấp hộ chiếu. Chờ người khác đối chiếu độc lập."
+    }
+  ]
+}
