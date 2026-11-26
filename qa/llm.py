@@ -72,7 +72,11 @@ def _http_error(e):
     if "credit balance" in detail.lower() or code == "insufficient_quota":
         return LLMError("quota", "Tài khoản API đã hết credit hoặc hết hạn mức. Hãy nạp thêm rồi thử lại.")
     if "model" in detail.lower() and ("access" in detail.lower() or "not exist" in detail.lower() or "found" in detail.lower()):
-        return LLMError("model", f"Không có quyền truy cập mô hình '{model_name()}'. Hãy kiểm tra {MODEL_ENV[provider()]} trong .env (gợi ý: gpt-4o-mini).")
+        return LLMError(
+            "model",
+            f"Không có quyền truy cập mô hình '{model_name()}'. "
+            f"Hãy kiểm tra {MODEL_ENV[provider()]} trong .env và quyền truy cập model của {provider()}.",
+        )
     low = detail.lower()
     if e.code in (413, 429) and ("tokens per minute" in low or "request too large" in low or "tpm" in low):
         return LLMError("too_long", "Yêu cầu vượt giới hạn token mỗi phút của gói API hiện tại (long-context gửi cả bộ văn bản, "
@@ -92,8 +96,12 @@ def _http_error(e):
     return LLMError("bad_request", f"API từ chối yêu cầu (mã {e.code}). {detail}".strip())
 
 
-def _mock(system_blocks, question):
-    mode = os.environ["QA_MOCK"]
+def _mock_mode():
+    mode = os.environ.get("QA_MOCK", "").strip()
+    return "" if mode.lower() in {"", "0", "false", "no", "off"} else mode
+
+
+def _mock(system_blocks, question, mode):
     time.sleep(0.4)
     if mode == "rate_limit":
         raise LLMError("rate_limit", "Đã vượt giới hạn quota hoặc tốc độ gọi API. Vui lòng đợi một lúc rồi thử lại.")
@@ -182,8 +190,9 @@ def _groq(key, system_blocks, question, max_tokens):
 def call_llm(system_blocks, question, max_tokens=1024):
     """Trả về {"text", "usage", "seconds"}; lỗi thì ném LLMError."""
     t0 = time.perf_counter()
-    if os.environ.get("QA_MOCK"):
-        text, usage = _mock(system_blocks, question)
+    mode = _mock_mode()
+    if mode:
+        text, usage = _mock(system_blocks, question, mode)
         return {"text": text, "usage": usage, "seconds": time.perf_counter() - t0}
 
     key = os.environ.get(key_name())
